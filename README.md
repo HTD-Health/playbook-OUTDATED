@@ -1,6 +1,6 @@
 # Playbook
 
-- [How to request days off](#days-off)
+- [How to request days off](#days-off.md)
 - [How to organize and lead a demo meeting](#demo-meetings)
 
 ## Organizing and leading demo meetings
