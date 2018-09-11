@@ -1,8 +1,21 @@
 # Playbook
 
+- [How to request days off](#days-off)
 - [How to organize and lead a demo meeting](#demo-meetings)
 
-### How to organize and lead a demo meeting
+## Requesting days off
+
+### Why we need rules regarding requesting days off
+
+We need to stay healthy and well rested to be productive. HTD will always be taking into account the team needs regarding staying healthy and well rested. 
+
+Delivering software solutions requires teamwork. To deliver solutions on time we need to be acting effectively as a team. This includes coordinating days off so that we can be productive as a team and meet our obligations to clients.
+Kiedy requestować urlop?
+1-2 dni urlopu - 1 tydzień wcześniej
+3-5 dni urlopu - 1 miesiąc wcześniej
+>5 dni urlopu - 2 miesiące wcześniej
+
+## Organizing and leading demo meetings
 
 Before a demo
 
