@@ -1,4 +1,8 @@
-# How to organize and lead a demo meeting
+# Playbook
+
+- [How to organize and lead a demo meeting](#demo-meetings)
+
+### How to organize and lead a demo meeting
 
 Before a demo
 
