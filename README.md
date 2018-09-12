@@ -6,7 +6,7 @@ When reading this Playbook and talking to us you will often hear us referring to
 
 "You must give the customer The Warm Fuzzy Feeling". 
 
-This playbook is meant to provide you with a number of ready to use recipes that will help you provide a warm fuzzy feelng to our clients. While we strive to include all the necessary information you might find yourself in situations when there is no clear recipe what to. Then, whenever in doubt, always ask yourself "Am I providing a warm fuzzy feeling to the client?"
+This playbook is meant to provide you with a number of ready to use recipes that will help you provide a warm fuzzy feelng to our clients. While we strive to include all the necessary information you might find yourself in situations when there is no clear recipe what to. Then, whenever in doubt, always ask yourself "Am I providing the warm fuzzy feeling to the client?"
 
 ### Recipes
 
