@@ -12,3 +12,7 @@ This playbook is meant to provide you with a number of ready to use recipes that
 
 - [Requesting days off](/days-off.md)
 - [How to organize and lead demo meetings](/demo-meetings.md)
+
+### Testing devices in the office
+
+There are multple devices in the office that we can use for testing software. See the details [here](testing-devices.md).
