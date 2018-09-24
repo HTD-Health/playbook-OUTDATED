@@ -8,11 +8,11 @@ When we sign a contract with a client we commit to delivering software on time. 
 
 ### How to request days off internally
 
-When requesting days off use Calamari. 
+When requesting days off use Calamari. Your request will land in your team lead's inbox then.
 
 ### When to request days off
 
-Notify a client as soon as possible but no later than:
+We should notify a client as soon as possible but no later than:
 
 | How much ahead | How many days off |
 |--|--|
@@ -20,31 +20,26 @@ Notify a client as soon as possible but no later than:
 | 1 month before | 3 - 5 |
 | 2 months before | > 5 |
  
-Letting a client know about your absence late does not give the client a warm fuzzy feeling. 
+Letting a client know about an absence late does not give the client a warm fuzzy feeling. 
 
 There might be times where we need more strict rules than the ones above. In such a case this will be communicated to you ahead of time. An example of this is when HTD signs a project that is exceptionally time-critical e.g. when a release must be done before some conference (or otherwise the client loses a whole year) or simply a client made hard commitments themselves and consequently negotiated such terms in a contract with HTD.
 
 ### Emergency
 
-In case of an emergency call your team leader or Wojtek Z or Maciek Z.
+In case of an emergency call your team leader or Wojtek Z (+48 600 420 660) or Maciek Z (+48 600 421 660).
 
 ### How to communicate days off to a client
 
-A late news is a bad news. 
-
-Do it in writing? send an email or tell a client while on a standup?
-Tell it on a standup call or do it privately?
-Notify a client over Slack? Never notify a client over Slack?
+Early :) A late news is a bad news. 
 
 When telling a client on the call feel free to use the following phrases:
-
+(to be done)
 
 When notifying a client via email feel free to use the following phrases:
+(to be done)
 
-
-
-Always send a formal email to a client even though you the client might have confirmed on a call that is all fine. The formal email should be sent only after the client acknowledged the news told them on a call or sent over via Slack.
-Create a calendar event title “<to be done>” right after you send the formal email. 
+Always send a formal email to a client even though the client might have acknowledged on a call that is all fine. The formal email should be sent only after the client acknowledged the news told them on a call or sent over via Slack.
+Create a calendar event right after you send the formal email and invite the client to the event.
 
 
 ### Always use common sense
