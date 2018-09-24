@@ -14,7 +14,7 @@ When requesting days off use Calamari. Your request will land in your team lead'
 
 We should notify a client as soon as possible but no later than:
 
-| How much ahead | How many days off |
+| When requesting how many days off | Notify clients how much ahead |
 |--|--|
 | 1 week before | 1 - 2 |
 | 1 month before | 3 - 5 |
