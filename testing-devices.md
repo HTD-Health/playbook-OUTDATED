@@ -10,4 +10,5 @@ The following devices are available in the office:
 * Sony Xperia Z1 Compact D5503    Android 4.4.4
 
 PIN for unlocking devices - 1111
+
 Devices are located in the main office in a metal drawer in the shelf
