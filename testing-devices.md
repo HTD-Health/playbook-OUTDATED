@@ -12,3 +12,11 @@ The following devices are available in the office:
 PIN for unlocking devices - 1111
 
 Devices are located in the main office in a metal drawer in the shelf
+
+We have Slack account named HTD mobile device, you can use it to send links for installing new builds etc.
+
+HTD mobile device login credentials:
+
+Login: hello@htdevelopers.com
+
+Password: Doniczka!@#
