@@ -16,6 +16,9 @@ Devices are located in the main office in a metal drawer in the shelf. When you 
 ![Testing Devices Location](/images/testing_devices_location.JPG)
 [Testing Devices Location]
 
+![Testing Devices Location Close Up](/images/testing_devices_location_close_up.JPG)
+[Testing Devices Location Close Up]
+
 We have Slack account named HTD mobile device, you can use it to send links for installing new builds etc.
 
 HTD mobile device login credentials:
