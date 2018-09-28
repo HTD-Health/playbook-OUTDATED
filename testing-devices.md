@@ -13,8 +13,7 @@ PIN for unlocking devices - 1111
 
 Devices are located in the main office in a metal drawer in the shelf. When you stop using the test device, then please put it back to the drawer and connect it to the charger.
 
-![Testing Devices Location](/images/IMG_2280.JPG)
-[Testing Devices Location]
+
 
 We have Slack account named HTD mobile device, you can use it to send links for installing new builds etc.
 
