@@ -17,8 +17,8 @@ We should notify a client as soon as possible but no later than:
 | When requesting how many days off | Notify clients how much ahead |
 |--|--|
 | 1 - 2 days | 1 week before |
-| 3 - 5 | 1 month before |
-| > 5 | 2 months before |
+| 3 - 5 days | 1 month before |
+| > 5 days | 2 months before |
  
 Letting a client know about an absence late does not give the client a warm fuzzy feeling. 
 
