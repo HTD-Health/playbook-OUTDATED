@@ -1,8 +1,9 @@
 ### Hardware devices
 
 The following devices are available in the office:
-* iPhone xxx
-* iPad Air
+* iPhone XS                       iOS 12.0
+* iPhone 6                        iOS 12.0
+* iPad Air                        iOS 12.0.1
 * Samsung Galaxy S7               Android 8.0.0
 * Samsung Galaxy S6               Android 7.0
 * Motorola X Style                Android 7.0
