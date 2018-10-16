@@ -22,15 +22,3 @@ Devices are located in the main office in a metal drawer in the shelf. When you 
 [Testing Devices Location Close Up]
 
 We have Slack account named HTD mobile device, you can use it to send links for installing new builds etc.
-
-SLACK HTD mobile device login credentials:
-
-Login: hello@htdevelopers.com
-
-Password: Doniczka!@#
-
-Gmail login credentials:
-
-Login: qa-device@htdevelopers.com
-
-Password: Doniczka1@#
