@@ -43,7 +43,7 @@ Yes, you can. You can use whatever chunk of your budget to fund such a training 
 The budget refers to a net amount i.e. without VAT tax. For instance, if a conference costs 1230 PLN (1000 net + 230 PLN VAT) then we treat it as the cost was 1000 PLN so your education budget is decreased by 1000 PLN. 
 
 ## Will I be paid for going to a conference or attending a training of my choice?
-When you you go to a conference or a training of your choice we ask you to take an unpaid day(s) off i.e. Do not log the time spent on a conference on any client or internal project.
+When you you go to a conference or a training of your choice we ask you to take an unpaid day(s) off i.e. Unless instructed otherwise, do not log the time spent on a conference on any client or internal project.
 
 ## Any other rules?
 Please be reasonable and use the budget as if it was your own money.
