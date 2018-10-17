@@ -10,6 +10,7 @@ This playbook is meant to provide you with a number of ready to use recipes that
 
 ### Recipes
 
+- [Education budget](/education-budget.md)
 - [Requesting days off](/days-off.md)
 - [How to organize and lead demo meetings](/demo-meetings.md)
 
