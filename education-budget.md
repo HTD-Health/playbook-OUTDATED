@@ -52,12 +52,18 @@ For instance, if a conference costs 1230 PLN (1000 net + 230 PLN VAT) if you pro
 ### How do I request an invoice?
 When you buy online you should fill a "Faktura VAT" form online one a seller website and put the following company data:
 
-HTD Polska sp. z o.o.
-NIP 9471997285
-ul. Brukowa 12/18
-91-342 Łódź
+HTD Polska sp. z o.o.  
+NIP 9471997285 . 
+ul. Brukowa 12/18 .   
+91-342 Łódź . 
 
 (Yes, put 91-342 as a zipcode)
+
+### Who do I provide an invoice to?
+Please upload an invoice to HTD GDrive to the following folder (to be defined in December 2018). If you have a paper invoice then please scan it to pdf and then upload it. One of the apps you can use to scan documents into pdf format is Dropbox.
+
+### Should I report that I bought anything using my education budget?
+Yes. Add an entry to ["Education budgets - expenses" Google Spreadsheet](https://docs.google.com/spreadsheets/d/1WE352gD6To8EomFf-xK0UvMtNNw8hyXYUIZKOh4RPuM/edit#gid=0) as soon as you buy anything.
 
 ### Will I be paid for going to a conference or attending a training of my choice?
 When you you go to a conference or a training of your choice we ask you to take an unpaid day(s) off i.e. unless instructed otherwise, do not log the time spent on a conference on any client or internal project. Specifically:
@@ -73,5 +79,15 @@ The day when you pay is taken into account so in the listed case the money will 
 ### What happens if I don't spend my whole education budget until December 31?
 No matter how much of your education budget is spent in a previous year, on January 1 you always start with 3 000 PLN.
 
-### Any other rules?
-Please be reasonable and use the budget as if it was your own money.
+### Can I use my education budget to buy an online course for my close friend?
+No. The education budget can be used only for the things that are used personally by you e.g. you attending the conference, you reading the book, you attending the training, you watching the online course etc. 
+
+If you do otherwise it will be a reason of terminating your contract immediately.
+
+### Should I be reasonable when spending money from my education budget?Any other rules?
+Please be reasonable and use the budget as if it was your own money. The education budget is simply a part of revenue that the whole team generates. In other words, the education budgets are our working time. Time is priceless.
+
+### Anything else?
+
+Oh, do not upload a paper invoice to Gdrive. Remember, each time you upload a paper invoice to Gdrive a cat dies. 
+![Image of Yaktocat](https://s.yimg.com/ny/api/res/1.2/8if8GGR3yl3IBEyG.mJYoA--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/http://media.zenfs.com/en-US/homerun/people_218/ddeaf5d430f4cc7b679ea3c9c0be05df)
