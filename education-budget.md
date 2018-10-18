@@ -84,7 +84,7 @@ No. The education budget can be used only for the things that are used personall
 
 If you do otherwise it will be a reason of terminating your contract immediately.
 
-### Should I be reasonable when spending money from my education budget?Any other rules?
+### Should I be reasonable when spending money from my education budget?
 Please be reasonable and use the budget as if it was your own money. The education budget is simply a part of revenue that the whole team generates. In other words, the education budgets are our working time. Time is priceless.
 
 ### Anything else?
