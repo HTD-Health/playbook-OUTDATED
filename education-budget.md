@@ -53,14 +53,14 @@ For instance, if a conference costs 1230 PLN (1000 net + 230 PLN VAT) if you pro
 When you buy online you should fill a "Faktura VAT" form online one a seller website and put the following company data:
 
 HTD Polska sp. z o.o.  
-NIP 9471997285 . 
-ul. Brukowa 12/18 .   
-91-342 Łódź . 
+NIP 9471997285  
+ul. Brukowa 12/18  
+91-342 Łódź  
 
 (Yes, put 91-342 as a zipcode)
 
 ### Who do I provide an invoice to?
-Please upload an invoice to HTD GDrive to the following folder (to be defined in December 2018). If you have a paper invoice then please scan it to pdf and then upload it. One of the apps you can use to scan documents into pdf format is Dropbox.
+Please upload an invoice to HTD Google Drive to an appropriate folder [in this folder](https://drive.google.com/drive/u/1/folders/1R0ca_xUY-06EVTwHXCrkO2nwquzQhVzN). If you have a paper invoice then please scan it to pdf and then upload it. One of the apps you can use to scan documents into pdf format is Dropbox.
 
 ### Should I report that I bought anything using my education budget?
 Yes. Add an entry to ["Education budgets - expenses" Google Spreadsheet](https://docs.google.com/spreadsheets/d/1WE352gD6To8EomFf-xK0UvMtNNw8hyXYUIZKOh4RPuM/edit#gid=0) as soon as you buy anything.
@@ -89,5 +89,6 @@ Please be reasonable and use the budget as if it was your own money. The educati
 
 ### Anything else?
 
-Oh, do not upload a paper invoice to Gdrive. Remember, each time you upload a paper invoice to Gdrive a cat dies. 
+Oh, do not upload a paper invoice to Google Drive. Remember, each time you upload a paper invoice to Google Drive, a cat dies.   
+
 ![Image of Yaktocat](https://s.yimg.com/ny/api/res/1.2/8if8GGR3yl3IBEyG.mJYoA--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/http://media.zenfs.com/en-US/homerun/people_218/ddeaf5d430f4cc7b679ea3c9c0be05df)
