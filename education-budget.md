@@ -3,7 +3,7 @@
 Starting January 1, 2019, we are introducing a yearly education budget for each person. 
 We want to be more transparent and we believe that having the coherent rules regarding extra learning opportunities will help.
 
-### What is the amount of education budget?
+### What is the amount of a yearly education budget?
 The amount depends on the number of hours a person works per week. A full-time employee (40 hours per week on average) gets 3 000 PLN education budget. If you work less hours then your budget will be proportionally smaller e.g. a half-time (20 hours per week on average) employee gets 1 500 PLN. Similarly, the amount will be proportional to a number of months your work in a given year e.g. if you join HTD on July 1, 2019 then your education budget will be 1 500 PLN in 2019 and 3 000 PLN in 2020 and later.
 
 ### Is everyone eligible for the education budget?
