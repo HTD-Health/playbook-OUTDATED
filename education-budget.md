@@ -19,7 +19,7 @@ Our will is to significantly increase the education budget in the future. If the
 ### Is everyone eligible for the education budget?
 The education budget applies to all the employees, regardless of the type of contract. Therefore no matter whether you have a B2B contract, Umowa Zlecenie or Umowa o Pracę you have an education budget.
 
-## How does the education budget affect my taxes?
+### How does the education budget affect my taxes?
 The money you spent from your education budget will be taxed as your revenue so your tax base will be higher. The tax office (Urząd Skarbowy) will treat the amount spent as if you received extra cash revenue.
 
 ### What you can spend the money on
@@ -43,6 +43,15 @@ Starting January 1, English lessongs will be paid from employees education budge
 - BSc and MSc programmes are excluded
 - hardware. However, if you have an idea for a hardware, please reach out to Maciek Z and we will consider buying it from the company-wide budget.
 - meals. You can however book a room with breakfast included and then effectively the breakfast meal will be paid from your education budget.
+
+### Hotel, tickets, meals... it’s all too complicated. Please give me a real world example.
+
+Imagine you buy a ticket to Meet.js conference in Poznań, go there with your own car and book a hotel room with breakfast included. While staying there you also buy a lunch at the conference venue and a dinner at the hotel.
+
+Out of all the aforementioned expenses, the following ones should be paid out of your education budget:
+- conference ticket 
+- gas
+- hotel room with breakfast included
 
 ### Will HTD still pay for shared online courses from the company budget?
 Yes. HTD will continue paying for online courses that we consider basic and as such will be e.g. a part of our onboarding. 
