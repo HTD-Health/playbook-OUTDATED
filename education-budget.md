@@ -6,6 +6,9 @@ We want to be more transparent and we believe that having the coherent rules reg
 ### What is the amount of a yearly education budget?
 The amount depends on the number of hours a person works per week. A full-time employee (40 hours per week on average) gets 3 000 PLN education budget. If you work less hours then your budget will be proportionally smaller e.g. a half-time (20 hours per week on average) employee gets 1 500 PLN. Similarly, the amount will be proportional to a number of months your work in a given year e.g. if you join HTD on July 1, 2019 then your education budget will be 1 500 PLN in 2019 and 3 000 PLN in 2020 and later.
 
+### Will the amount change in the future?
+Our will is to significantly increase the education budget in the future. If the "education budget" initiative proves to be a sound idea then increasing the amount will be a priority as the company grows.
+
 ### Is everyone eligible for the education budget?
 The education budget applies to all the employees, regardless of the type of contract. Therefore no matter whether you have a B2B contract, Umowa Zlecenie or Umowa o Pracę you have an education budget.
 
@@ -16,7 +19,7 @@ The money you spent from your education budget will be taxed as your revenue so 
 The budget can be spent both on software design and development related things including, but not limited to:
 - books
 - online courses, including online university courses like Coursera, edX etc.
-- conferences including tickets, travel, gas, hotel, food.
+- conferences including conference tickets, travel expenses (train and airline tickets, BlaBlaCar etc.), gas if travelling by car, hotel. Food/meals are excluded and should be paid for with you personal money.
 - paid Meetups and events
 - post-graduate studies
 - onsite and online training, including trainings required to pass certain certification exams
@@ -27,11 +30,12 @@ The budget can be spent both on software design and development related things i
 If your expense is not listed above please ask Maciek Z. We want to keep the rules quite relaxed and reasonable e.g. a book on psychology would still fall under the budget if it helps undersntad digital apps users behavior.
 
 ### How does the education budget affect our English lessons held in the office?
-Starting January 1, English lessongs will be paid from employees education budget. The 2019 rate of 30 min English conversation with our English teacher will be known in December, 2018.
+Starting January 1, English lessongs will be paid from employees education budget. The 2019 rate of 30 min English conversation with our English teacher will be known in December, 2018. You are welcome to attend English course of your choice or take private conversations outside of the office and pay for it out of your education budget. Please note that you will still need to provide an invoice.
 
 ### What kind of expenses are excluded?
 - BSc and MSc programmes are excluded
-- any hardware. However, if you have an idea for a hardware that is helpful, please reach out to Maciek Z and we will consider buying it from the company-wide budget.
+- hardware. However, if you have an idea for a hardware, please reach out to Maciek Z and we will consider buying it from the company-wide budget.
+- meals. You can however book a room with breakfast included and then effectively the breakfast meal will be paid from your education budget.
 
 ### Will HTD still pay for shared online courses from the company budget?
 Yes. HTD will continue paying for online courses that we consider basic and as such will be e.g. a part of our onboarding. 
