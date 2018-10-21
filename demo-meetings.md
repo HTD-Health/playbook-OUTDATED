@@ -2,35 +2,36 @@
 
 ### Before a demo
 
-- [ ] Make sure the features are deployed. Do not demo anything that is running on your local computer. Us a development / test / staging / UAT server instead.
+- [ ] Make sure the features are deployed. Do not demo anything that is running on your local computer. Use a development / test / staging / UAT server instead.
 - [ ] Make sure the features are merged to a main branch. Do not demo anything that is not yet merged.
-- [ ] Umówic spotkanie z osoba ktorej bede robil demo
+- [ ] Make sure that a client you sent an invitation to has accepted the invitation.
 - [ ] Book a conference room with a TV set and a mic.
 - [ ] Prepare test data so that the features can be demoed efficiciently. 
 - [ ] For the test data use English only and professional names. As an example, if you demo a doctor profile page then a doctor profile picture should be professional (not a random dude pic), the first and last names should be like-real names (not Candy Dandy). 
-- [ ] For the test data use Grammarly (you can install Grammarly browser extension) to make sure that any texts are correct.
-- [ ] Prepare a demo agenda (fajnie jakby była ona widoczna na ekranie (nie wiem jak to zrobic)
-- [ ] Zrobic sobie wewnetrzne demo tylko dla siebie by wiedziec co moze sie stac złego po drodze
+- [ ] For the test data use Grammarly to make sure that any texts are correct. You can install Grammarly browser extension.
+- [ ] Prepare a demo agenda. Remember that a recipient of the demo (a client) might know less about the project details than you do. Therefore make sure you start with bullet points so that the recipient know what you present and are talking about and where the presented accomplishments fit in the big picture. Read about [the top down approach](https://medium.com/lessons-from-mckinsey/the-pyramid-principle-f0885dd3c5c7) and why and when it matters when communicating.
+- [ ] Prep internally. Schedule a demo rehearsal and follow all the steps that will happen in a real demo meeting so that you have a full view what could go wrong during the meeting.
+- [ ] When prepping ask one person to call in from another room. Let this person comment on audio and video quality, the demo flow and other demo parts afterwards.
 
 ### Just before a demo
 
 - [ ] Everyone who will share a screen should have notifications turned off so that people do not see notification bubbles while they look at your screen.
 - [ ] Everyone should either turn off notifications or turn off volume so that there is nothing interrupting during a demo
 - [ ] Everyone should put their phones in a silent mode
-- [ ] Wlaczyc zooma (platforme na ktorej bede demowal i sprawdzic obraz, ustawienie kamery, dzwiek mikrofonu
-- [ ] Przywitać się opowiedzieć o agendzie, co bede demowal, w jakiej kolejnosci
-- [ ] Demujac trzeba opowiadac co widzimy na ekranie - nie tylko pusty pokaz slajdow
-- [ ] Na zakonczenie uwagi/pytania
+- [ ] Turn on Zoom and make sure the camera settings are correct and audio quality are fine.
 
 ### Demo meeting playbook
-- [ ] Mention a product mission and vision.
-- [ ] Demo zaczynamy od przedstawienie Sprintu, tego co zrobilismy.
+- [ ] Say hello to everyone and explain the agenda.
+- [ ] Mention a product mission and vision. The client needs to know we are aware what the big picture is.
+- [ ] Speak slowly so that the client is able to process information and chime in if willing to do so.
+- [ ] Start the demo with the sprint goal and present the accomplishments with [the top down approach](https://medium.com/lessons-from-mckinsey/the-pyramid-principle-f0885dd3c5c7)
+- [ ] Pay attention to what is displayed on the screen. Do not let a mouse pointer wander randomly. 
+- [ ] Ask for client feedback
 
 
 ### JIRA
-User stories should be collapsed when you introduce the sprint scope.
-Po planie naszego sprintu macie obraz co zrobislimy
-to teraz zademujmy to na podstawie opis storisow
+User stories should be collapsed when you explain the sprint scope.
 
-Spotkajmy sie i przetestujmy
-Mniejsze sprinty - 
+### Common mistakes
+- [ ] Getting into details without explaining the big picture.
+- [ ] Not making sure the camera settings are fine hence showing only a part of your face or a part of the team
