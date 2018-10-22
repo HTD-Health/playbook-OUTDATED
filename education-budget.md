@@ -4,14 +4,14 @@ Starting January 1, 2019, we are introducing a yearly education budget for each 
 We want to be more transparent and we believe that having the coherent rules regarding extra learning opportunities will help.
 
 ### What is the amount of a yearly education budget?
-The amount depends on the number of hours a person works per week. A full-time employee (40 hours per week on average) gets 3 000 PLN education budget. 
+The amount depends on the number of hours a person works per week. A full-time employee (40 hours per week on average) gets 4 000 PLN education budget. 
 
 ### What if I don't work full-time?
 
-If you work less hours then your budget will be proportionally smaller e.g. a half-time (20 hours per week on average) employee gets 1 500 PLN. Similarly, the amount will be proportional to a number of months your work in a given year e.g. if you join HTD on July 1, 2019 then your education budget will be 1 500 PLN in 2019 and 3 000 PLN in 2020 and later.
+If you work less hours then your budget will be proportionally smaller e.g. a half-time (20 hours per week on average) employee gets 2 000 PLN. Similarly, the amount will be proportional to a number of months your work in a given year e.g. if you join HTD on July 1, 2019 then your education budget will be 2 000 PLN in 2019 and 4 000 PLN in 2020 and later.
 
 ### What if I work part-time (say 0.75 of full-time) until July 1 and then full-time?
-We will use a rule of proportionality. In the aforementioned cases, the first half of the year will give you 1125 PLN calculated as 0.75 * 1 500 PLN and the second part of the year will incur 1500 PLN. In total your education budget for that year will be 2 625 PLN.
+We will use a rule of proportionality. In the aforementioned cases, the first half of the year will give you 1 500 PLN calculated as 0.75 * 2 000 PLN and the second part of the year will incur 2 000 PLN. In total your education budget for that year will be 3 500 PLN.
 
 ### Will the amount change in the future?
 Our will is to significantly increase the education budget in the future. If the "education budget" initiative proves to be a sound idea then increasing the amount will be a priority as the company grows.
@@ -37,7 +37,7 @@ The budget can be spent both on software design and development related things i
 If your expense is not listed above please ask Maciek Z. We want to keep the rules quite relaxed and reasonable e.g. a book on psychology would still fall under the budget if it helps undersntad digital apps users behavior.
 
 ### How does the education budget affect our English lessons held in the office?
-Starting January 1, English lessongs will be paid from employees education budget. The 2019 rate of 30 min English conversation with our English teacher will be known in December, 2018. You are welcome to attend English course of your choice or take private conversations outside of the office and pay for it out of your education budget. Please note that you will still need to provide an invoice.
+Starting January 1, English lessons will be paid from employees education budget. The 2019 rate of English conversation with our English teacher will be known in December, 2018. You are welcome to attend English course of your choice or take private conversations outside of the office and pay for it fully or partially out of your education budget. Please note that you will still need to provide an invoice.
 
 ### What kind of expenses are excluded?
 - BSc and MSc programmes are excluded
@@ -61,23 +61,25 @@ If you think that a given online course would benefit a larger group of people p
 Our will is to order Revolut physical prepaid business cards for all the employees and then hand it out to each employee in December 2018 and they will keep it at home. If we go that route then you will simply be able to use the card both online and at physical locations.
 Please note that we are not yet sure if Revolut Business will work for us so we might go different route. 
 
-### What if I want to attend a training that costs 3500 + VAT? Can I use my budget for that?
-Yes, you can. You can use whatever chunk of your budget to fund such a training e.g. you can take 2 000 PLN from you education budget and pay the rest (1 500) from your personal money.
+### What if I want to attend a training that costs 4 500 + VAT? Can I use my budget for that?
+Yes, you can. You can use whatever chunk of your budget to fund such a training e.g. you can take 2 000 PLN from you education budget and pay the rest (2 500) from your personal money.
 
 ### Is VAT tax included in the amount?
-The budget is reduced by a net amount (i.e. without VAT tax) of your expense if you provide an expense invoice to us and the invoice lists "HTD Polska sp. z o.o." as a buyer. If you are not able to provide an invoice then your budget will be reduced by the brutto amount (i.e. including VAT).
+The budget is reduced by a net amount (i.e. without VAT tax) of your expense if you provide an expense VAT invoice to us and the invoice lists "HTD Polska sp. z o.o." as a buyer. If you are not able to provide such an invoice then your budget will be reduced by the brutto amount (i.e. including VAT).
 
-For instance, if a conference costs 1230 PLN (1000 net + 230 PLN VAT) if you provide an invoice then we treat it as the cost was 1000 PLN so your education budget is decreased by 1000 PLN. 
+For instance, if you pay 1230 PLN (1000 net + 230 PLN VAT) for a conference then if you provide an invoice then we treat it as the cost was 1000 PLN so your education budget is decreased by 1000 PLN. If you are not able to provide a VAT invoice with HTD Polska sp. z o.o. listed as a buyer then your education budget is decreased by 1230 PLN.
 
-### How do I request an invoice?
-When you buy online you should fill a "Faktura VAT" form online one a seller website and put the following company data:
+### How do I request an invoice from a seller e.g. from a conference organizer?
+When you buy online you should fill a "Faktura VAT" form online on a seller website and put the following company data:
 
 HTD Polska sp. z o.o.  
 NIP 9471997285  
 ul. Brukowa 12/18  
 91-342 Łódź  
 
-(Yes, put 91-342 as a zipcode)
+(Yes, put 91-342 as a zipcode) 
+
+You should also be able to request an invoice by emailing a seller.  
 
 ### Who do I provide an invoice to?
 Please upload an invoice to HTD Google Drive to an appropriate folder [in this folder](https://drive.google.com/drive/u/1/folders/1R0ca_xUY-06EVTwHXCrkO2nwquzQhVzN). If you have a paper invoice then please scan it to pdf and then upload it. One of the apps you can use to scan documents into pdf format is Dropbox.
