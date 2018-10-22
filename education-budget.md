@@ -62,7 +62,7 @@ Our will is to order Revolut physical prepaid business cards for all the employe
 Please note that we are not yet sure if Revolut Business will work for us so we might go different route. 
 
 ### What if I want to attend a training that costs 4 500 + VAT? Can I use my budget for that?
-Yes, you can. You can use whatever chunk of your budget to fund such a training e.g. you can take 2 000 PLN from you education budget and pay the rest (2 500) from your personal money.
+Yes, you can. You can use whatever chunk of your budget to fund such a training e.g. you can take 2 000 PLN from your education budget and pay the rest (2 500) from your personal money.
 
 ### Is VAT tax included in the amount?
 The budget is reduced by a net amount (i.e. without VAT tax) of your expense if you provide an expense VAT invoice to us and the invoice lists "HTD Polska sp. z o.o." as a buyer. If you are not able to provide such an invoice then your budget will be reduced by the brutto amount (i.e. including VAT).
