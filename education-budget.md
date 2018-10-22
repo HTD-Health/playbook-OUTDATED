@@ -34,7 +34,7 @@ The budget can be spent both on software design and development related things i
 - English lessons (more on this further down)
 
 ### What if I want to buy something that is not listed above?
-If your expense is not listed above please ask Maciek Z. We want to keep the rules quite relaxed and reasonable e.g. a book on psychology would still fall under the budget if it helps undersntad digital apps users behavior.
+If your expense is not listed above please ask Maciek Z. We want to keep the rules quite relaxed and reasonable e.g. a book on psychology would still fall under the budget if it helps understand digital apps users behavior.
 
 ### How does the education budget affect our English lessons held in the office?
 Starting January 1, English lessons will be paid from employees education budget. The 2019 rate of English conversation with our English teacher will be known in December, 2018. You are welcome to attend English course of your choice or take private conversations outside of the office and pay for it fully or partially out of your education budget. Please note that you will still need to provide an invoice.
