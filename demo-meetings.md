@@ -35,3 +35,4 @@ User stories should be collapsed when you explain the sprint scope.
 ### Common mistakes
 - [ ] Getting into details without explaining the big picture.
 - [ ] Not making sure the camera settings are fine hence showing only a part of your face or a part of the team
+- [ ] Saying "he" when you mean a user. Say "they" or "she". That's what they say in US. Instead of ~A user signs in and then he click the button.~ say "A user signs in and then they click the button."
