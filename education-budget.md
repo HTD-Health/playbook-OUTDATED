@@ -48,7 +48,7 @@ Starting January 1, English lessons will be paid from employees education budget
 
 Imagine you buy a ticket to Meet.js conference in Poznań, go there with your own car and book a hotel room with breakfast included. While staying there you also buy a lunch at the conference venue and a dinner at the hotel.
 
-Out of all the aforementioned expenses, the following ones should be paid out of your education budget:
+Out of all the aforementioned expenses, the following ones can be paid out of your education budget:
 - conference ticket 
 - gas
 - hotel room with breakfast included
