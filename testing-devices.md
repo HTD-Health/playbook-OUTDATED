@@ -15,7 +15,7 @@ PIN for unlocking devices - 1111 or 111111
 
 Devices are located in the main office in a metal drawer in the shelf. When you stop using the test device, then please put it back to the drawer and connect it to the charger.
 
-![Testing Devices Location](/images/testing_devices_location.JPG)
+![Testing Devices Location](/images/testing_devices_location1.jpg)
 [Testing Devices Location]
 
 ![Testing Devices Location Close Up](/images/testing_devices_location_close_up.JPG)
