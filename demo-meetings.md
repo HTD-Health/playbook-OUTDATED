@@ -35,11 +35,10 @@ User stories should be collapsed when you explain the sprint scope.
 ### Common mistakes
 - [ ] Getting into details without explaining the big picture.
 - [ ] Not making sure the camera settings are fine hence showing only a part of your face or a part of the team
-- [ ] Saying "he" when you mean a user. Say "they" or "she". That's what they say in US. Instead of ~A user signs in and then he click the button.~ say "A user signs in and then they click the button."
+- [ ] Saying "he" when you mean a user. Say "they" or "she". That's what they say in US. Instead of ~He signs in and then he clicks the button.~ say "She signs in and then she clicks the button."
 - [ ] Interrupting another person, especially when they are from US. Remember, that interrupting anyone is considered rude in there. We should give others a lot of space and let them breathe and finish whatever sentence they are saying before chiming in. Be very cautious about it.
 - [ ] Assuming that "OK" means "fine". "OK" does not mean either "good" nor "fine". "OK" most likely means that something is of subpar quality.
 - [ ] Moving your mouse pointer around the screen with no clear goal while speaking. Remember your goal is to deliver your message in a concise way. 
 - [ ] Being late. Don't let a client wait for you. Show that you respect their time.
 - [ ] Receiving Slack notifications while sharing your screen. Protip: turn off any notification.
 - [ ] Having too many tabs open and having your bookmarks visible when sharing your screen. Let a client focus on what's important and not wander about what you have in your bookmarks.
-- [ ] 
