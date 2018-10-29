@@ -2,6 +2,7 @@
 
 ### Recipes
 
+- [Definition of Quality](/definition-of-quality.md)
 - [How to organize and lead demo meetings](/demo-meetings.md)
 - [Education budget](/education-budget.md)
 - [Requesting days off](/days-off.md)
