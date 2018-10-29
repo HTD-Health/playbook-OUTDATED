@@ -9,7 +9,7 @@ As an organization we share a common sense of what makes a good product developm
 ### Quality Assurance
 - Quality assurance is the effect of a collaborative work and the fundament of our confidence
 - We ensure it by sufficiently describing the goals and requirements with the knowladge we gain throughtout the development process
-- Technical Debt is better than not done work. Deliberately used, it is honoured in appropriate time or optimized as a part of constant improvement
+- If possible we avoid introducing Technical Debt, however it is still better than not done work. We keep track of it and honour it in appropriate time
 
 ### Team Value 
 - We always deliver as a team, yet as a group of individuals we share our best expertise and experience with each other to accomplish common goals
