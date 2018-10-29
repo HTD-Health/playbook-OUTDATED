@@ -1,5 +1,5 @@
 # Organization's Definition of Quality
-As an organization we should share a common sense of what makes a good product development practise. Let it serve as a set of general principles and the basis of the Definition of Done.
+As an organization we share a common sense of what makes a good product development practise. Let it serve as a set of general principles and the basis of the Definition of Done.
 
 ### High Standard
 - By the constant desire of self-improvement we stay up to date with tooling and techniques
