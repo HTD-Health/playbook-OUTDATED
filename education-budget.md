@@ -57,6 +57,11 @@ Out of all the aforementioned expenses, the following ones can be paid out of yo
 Yes. HTD will continue paying for online courses that we consider basic and as such will be e.g. a part of our onboarding. 
 If you think that a given online course would benefit a larger group of people please do reach out to [Maciek Z](https://github.com/maciej-zywno) and we will consider funding it from the company-wide budget.
 
+### Will HTD still be buying physical books from the company budget?
+
+Yes. If you think that a given book will benefit a larger group of people please add a comment to [HTD Bookshelf | Requests tab](https://docs.google.com/spreadsheets/d/160JGrusqDqLwSK20DL9AuPQ12yMkVujK_qfkER8Ay2k/edit#gid=1603685952), mention Maciek Z in your comment and we will consider funding it from the company-wide budget.
+
+
 ### I found a conference/book/whatever that I want to buy from my education budget. How will I pay for it?
 Our will is to order Revolut physical prepaid business cards for all the employees and then hand it out to each employee in December 2018 and they will keep it at home. If we go that route then you will simply be able to use the card both online and at physical locations.
 Please note that we are not yet sure if Revolut Business will work for us so we might go different route. 
