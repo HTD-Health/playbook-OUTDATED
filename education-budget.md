@@ -34,14 +34,14 @@ The budget can be spent both on software design and development related things i
 - English lessons (more on this further down)
 
 ### What if I want to buy something that is not listed above?
-If your expense is not listed above please ask Maciek Z. We want to keep the rules quite relaxed and reasonable e.g. a book on psychology would still fall under the budget if it helps understand digital apps users behavior.
+If your expense is not listed above please ask [Maciek Z](https://github.com/maciej-zywno) We want to keep the rules quite relaxed and reasonable e.g. a book on psychology would still fall under the budget if it helps understand digital apps users behavior.
 
 ### How does the education budget affect our English lessons held in the office?
 Starting January 1, English lessons will be paid from employees education budget. The 2019 rate of English conversation with our English teacher will be known in December, 2018. You are welcome to attend English course of your choice or take private conversations outside of the office and pay for it fully or partially out of your education budget. Please note that you will still need to provide an invoice.
 
 ### What kind of expenses are excluded?
 - BSc and MSc programmes are excluded
-- hardware. However, if you have an idea for a hardware, please reach out to Maciek Z and we will consider buying it from the company-wide budget.
+- hardware. However, if you have an idea for a hardware, please reach out to [Maciek Z](https://github.com/maciej-zywno) and we will consider buying it from the company-wide budget.
 - meals. You can however book a room with breakfast included and then effectively the breakfast meal will be paid from your education budget.
 
 ### Hotel, tickets, meals... it’s all too complicated. Please give me a real world example.
@@ -55,7 +55,7 @@ Out of all the aforementioned expenses, the following ones can be paid out of yo
 
 ### Will HTD still pay for shared online courses from the company budget?
 Yes. HTD will continue paying for online courses that we consider basic and as such will be e.g. a part of our onboarding. 
-If you think that a given online course would benefit a larger group of people please do reach out to Maciek Z and we will consider funding it from the company-wide budget.
+If you think that a given online course would benefit a larger group of people please do reach out to [Maciek Z](https://github.com/maciej-zywno) and we will consider funding it from the company-wide budget.
 
 ### I found a conference/book/whatever that I want to buy from my education budget. How will I pay for it?
 Our will is to order Revolut physical prepaid business cards for all the employees and then hand it out to each employee in December 2018 and they will keep it at home. If we go that route then you will simply be able to use the card both online and at physical locations.
