@@ -2,7 +2,7 @@
 
 This readme describes the protocols explaining how to release a beta version of mobile apps to beta users
 
-There are a number of scenarios when releasing an app is not a simple act of sending an installation link to beta users. It might be that the realease affects a large amount of users and presents a potential risk of damaging HTD reputation. Therefore the process of releasing a beta version should be approached carefully.
+There are a number of scenarios when releasing a beta version of an app is not a simple act of sending an installation link to beta users but requires careful preparation. It might be that the realease affects a large amount of users and presents a potential risk of damaging HTD reputation. Therefore the process of releasing a beta version should be approached carefully.
 
 ### Why this is very important
 
