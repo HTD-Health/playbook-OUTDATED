@@ -18,7 +18,7 @@ Murphy's law states that "whatever can go wrong, will go wrong." Be paranoid. If
 
 - [ ] Make sure the whole team is aware of a need for releasing a beta version of the app. Explain who will be the users, when the relese process will happen, why we need a beta version and what features are to be included.
 - [ ] When the time comes, create a separate branch or tag from the main line of the code (typically _develop_ or _master_ branch). Do it both for the backend and for the frontend.
-- [ ] Test, fix bugs, iterate. Incorporate the bugfixes back to the main line of the codebase. Note "Only bugfixes!" part in [this diagram](https://datasift.github.io/gitflow/GitFlowHotfixBranch.png).
+- [ ] Test, fix bugs in the branch, iterate. Incorporate the bugfixes back to the main line of the codebase. Note "Only bugfixes!" part in [this diagram](https://datasift.github.io/gitflow/GitFlowHotfixBranch.png).
 - [ ] Make sure the key developers are online at the time of release and available to jump in when needed. Even though you prepared for the release, there might still be a need for an urgent hot fix or restarting a server.
 - [ ] Make sure the team knows the process of releasing a potential bugfix including: where to push the code, how to create a build or trigger a CI, how to deploy the fix etc.
 - [ ] Make sure the team knows how to monitor the app and the backend. This includes making sure the team has access to real time logs of the app and the backend
