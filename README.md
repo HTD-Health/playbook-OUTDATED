@@ -7,6 +7,7 @@
 - [Education budget](/education-budget.md)
 - [Requesting days off](/days-off.md)
 - [Mobile apps beta release](/mobile-app-beta-release.md)
+- [Development workflow [PL]](/workflow-guideline-pl.md)
 
 ### Testing devices in the office
 
