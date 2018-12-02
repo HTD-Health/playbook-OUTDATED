@@ -124,11 +124,11 @@ Please be reasonable and use the budget as if it was your own money. The educati
 
 - Fuel price: 600PLN (3 cars included)
 
-#### Euruko
+#### Euruko 2018 Vienna
 
 - Ticket price: 150PLN
 
-- Accommodation price: N/A
+- Accommodation price: 52 EURO per double room (2 ppl) per night
 
 - Fuel price: N/A
 
