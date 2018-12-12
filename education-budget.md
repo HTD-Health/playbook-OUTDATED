@@ -114,6 +114,26 @@ If you do otherwise it will be a reason of terminating your contract immediately
 ### Should I be reasonable when spending money from my education budget?
 Please be reasonable and use the budget as if it was your own money. The education budget is simply a part of revenue that the whole team generates. In other words, the education budgets are our working time. Time is priceless.
 
+### Examples expenses
+
+#### GrillJS Poznan:
+
+- Ticket price: 170PLN
+
+- Accommodation price: 12ppl (6 double rooms) 3000PLN
+
+- Fuel price: 600PLN (3 cars included)
+
+#### Euruko 2018 Vienna
+
+- Ticket price: 150PLN
+
+- Accommodation price: 52 EURO per double room (2 ppl) per night
+
+- Fuel price: N/A
+
+
+
 ### Anything else?
 
 Oh, do not upload a paper invoice to Google Drive. Remember, each time you upload a paper invoice to Google Drive, a cat dies.   
