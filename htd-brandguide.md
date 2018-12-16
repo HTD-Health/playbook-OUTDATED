@@ -1,3 +1,3 @@
-### HTD Brand
+## HTD Brand Guide
 
-[htd_brandguide.pdf](./sources/htd_brandguide.pdf)
+[BRAND GUIDE PDF](./sources/htd_brandguide.pdf)
