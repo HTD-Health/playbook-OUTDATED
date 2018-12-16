@@ -16,10 +16,12 @@ We should notify a client as soon as possible but no later than:
 
 | When requesting how many days off | Notify clients how much ahead |
 |--|--|
-| 1 - 2 days | 1 week before |
-| 3 - 5 days | 1 month before |
-| > 5 days | 2 months before |
- 
+| 1 day | 1 week before |
+| 2 days | 2 weeks before |
+| 3 days | 3 weeks before |
+| 5 days | 5 weeks before |
+| >= 10 days | 10 weeks before |
+
 Letting a client know about an absence late does not give the client a warm fuzzy feeling. 
 
 There might be times where we need more strict rules than the ones above. In such a case this will be communicated to you ahead of time. An example of this is when HTD signs a project that is exceptionally time-critical e.g. when a release must be done before some conference (or otherwise the client loses a whole year) or simply a client made hard commitments themselves and consequently negotiated such terms in a contract with HTD.
