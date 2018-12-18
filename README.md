@@ -10,6 +10,9 @@
 - [Mobile apps beta release](/mobile-app-beta-release.md)
 - [Development workflow [PL]](/workflow-guideline-pl.md)
 
+### HTD
+- [HTD Brand Guide](/htd-brandguide.md)
+
 ### Testing devices in the office
 
 There are multple devices in the office that we can use for testing software. See the details [here](testing-devices.md).
