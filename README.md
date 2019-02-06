@@ -9,6 +9,7 @@
 - [Requesting days off](/days-off.md)
 - [Mobile apps beta release](/mobile-app-beta-release.md)
 - [Development workflow [PL]](/workflow-guideline-pl.md)
+- [Helpful english phrases](/helpful-english-phrases.md)
 
 ### HTD
 - [HTD Brand Guide](/htd-brandguide.md)
