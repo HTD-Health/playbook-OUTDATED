@@ -12,7 +12,7 @@
 - I have to ask for an extension of a week
 
 ### When wanting to meet
-- Could we meetnext week at your convenience?
+- Could we meet next week at your convenience?
 - Would it be possible to meet at your convenience?  
   
 ### Negative Face Saving Strategies
@@ -21,7 +21,7 @@
 - I understand, but ... / I realize you..., but...
 
 ### Requests and Apologies
-- I will ned a little more time.
+- I will need a little more time.
 - I will be handing in my assignment a day late
 - I hope you'll give me the weekend to finish my assignment
 - I would like to remind you of my reference letter
