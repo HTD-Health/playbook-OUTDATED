@@ -3,6 +3,7 @@
 ### Recipes
 
 <!--- - [Definition of Quality](/definition-of-quality.md) --->
+- [Logging hours in Toggl](/logging-hours-in-toggl.md)
 - [How to organize and lead demo meetings](/demo-meetings.md)
 - [Referring a candidate/CV/resume for a job at HTD](/referrals.md)
 - [Education budget](/education-budget.md)
