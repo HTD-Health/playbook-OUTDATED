@@ -9,3 +9,5 @@ Always log hours under appropriate projects.
 | Batony UX/UI meetup | HTD-TalentAcquisition | Batony |
 | agile coaching | client (not HTD) | client project |
 | one-on-one's | client (not HTD) | client project |
+
+If you help someone else with another project, log hours on that another project, not on your main project.
