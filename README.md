@@ -12,6 +12,9 @@
 - [Development workflow](/workflow-guideline.md)
 - [Helpful English phrases](/helpful-english-phrases.md)
 
+### Knowledge database
+- [Knowledge database](https://github.com/htdevelopers/knowledge-database)
+
 ### HTD
 - [HTD Brand Guide](/htd-brandguide.md)
 
