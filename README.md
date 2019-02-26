@@ -3,6 +3,7 @@
 ### Recipes
 
 <!--- - [Definition of Quality](/definition-of-quality.md) --->
+
 - [Logging hours in Toggl](/logging-hours-in-toggl.md)
 - [How to organize and lead demo meetings](/demo-meetings.md)
 - [Referring a candidate/CV/resume for a job at HTD](/referrals.md)
@@ -13,7 +14,8 @@
 - [Helpful English phrases](/helpful-english-phrases.md)
 
 ### HTD
-- [HTD Brand Guide](/htd-brandguide.md)
+
+- [HTD Brand Guide](./sources/htd_brandguide.pdf)
 
 ### Testing devices in the office
 
