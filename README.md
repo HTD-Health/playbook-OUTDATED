@@ -13,7 +13,7 @@
 
 ### HTD
 
-- [HTD Brand Guide](/htd-brandguide.md)
+- [HTD Brand Guide](./sources/htd_brandguide.pdf)
 
 ### Testing devices in the office
 
