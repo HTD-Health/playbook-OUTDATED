@@ -37,6 +37,11 @@
 
 - [[Video] Introduction to Scrum - 7 Minutes](https://www.youtube.com/watch?v=9TycLR0TqFA)
 
+#### Software Architecture
+
+- [[Video] Greg Young - CQRS and Event Sourcing](https://www.youtube.com/watch?v=JHGkaShoyNs)
+- [[Video] Sławomir Sobótka - DDD Q&A - wersja rozszerzona](https://www.youtube.com/watch?v=do-xqIbKZ_8&t=5907s)
+
 #### Online platforms
 
 - [[WWW] reacttraining.com](https://courses.reacttraining.com/)
