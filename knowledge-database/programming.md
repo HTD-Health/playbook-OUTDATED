@@ -41,6 +41,8 @@
 
 - [[Video] Greg Young - CQRS and Event Sourcing](https://www.youtube.com/watch?v=JHGkaShoyNs)
 - [[Video] Sławomir Sobótka - DDD Q&A - wersja rozszerzona](https://www.youtube.com/watch?v=do-xqIbKZ_8&t=5907s)
+- [[Article] The Software Architecture Chronicles](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/)
+- [[WWW] Software Design by Martin Fowler - https://martinfowler.com/design.html](https://martinfowler.com/design.html)
 
 #### Online platforms
 
