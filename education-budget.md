@@ -141,6 +141,4 @@ Please be reasonable and use the budget as if it was your own money. The educati
 
 ### Anything else?
 
-Oh, do not upload a paper invoice to Google Drive. Remember, each time you upload a paper invoice to Google Drive, a cat dies.   
-
-![Image of Yaktocat](https://s.yimg.com/ny/api/res/1.2/8if8GGR3yl3IBEyG.mJYoA--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/http://media.zenfs.com/en-US/homerun/people_218/ddeaf5d430f4cc7b679ea3c9c0be05df)
+If you have any question feel free to post it on a public #ama-edu-budget channel.
