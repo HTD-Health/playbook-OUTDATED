@@ -75,7 +75,7 @@ The budget is reduced by a net amount (i.e. without VAT tax) of your expense if 
 For instance, if you pay 1230 PLN (1000 net + 230 PLN VAT) for a conference then if you provide an invoice then we treat it as the cost was 1000 PLN so your education budget is decreased by 1000 PLN. If you are not able to provide a VAT invoice with HTD Polska sp. z o.o. listed as a buyer then your education budget is decreased by 1230 PLN.
 
 ### How do I request an invoice from a seller e.g. from a conference organizer?
-When you buy online you should fill a "Faktura VAT" form online on a seller website and put the following company data:
+When you buy online you should fill a "Faktura VAT", "Billing details, "Company name", "Receipt details" or a similar text field in a online form on a seller website and put the following company data:
 
 HTD Polska sp. z o.o.  
 NIP 9471997285  
