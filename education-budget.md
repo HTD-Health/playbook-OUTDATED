@@ -37,7 +37,10 @@ The budget can be spent both on software design and development related things i
 If your expense is not listed above please ask [Maciek Z](https://github.com/maciej-zywno) We want to keep the rules quite relaxed and reasonable e.g. a book on psychology would still fall under the budget if it helps understand digital apps users behavior.
 
 ### How does the education budget affect our English lessons held in the office?
-Starting January 1, English lessons will be paid from employees education budget. The 2019 rate of English conversation with our English teacher will be known in December, 2018. You are welcome to attend English course of your choice or take private conversations outside of the office and pay for it fully or partially out of your education budget. Please note that you will still need to provide an invoice.
+English lessons held in the office does not affect your education budget.
+
+### Can I take some different English course of my choice?
+You are welcome to attend different english course of your choice or take private conversations outside of the office and pay for it fully or partially out of your education budget. Please note that you will still need to provide an invoice.
 
 ### What kind of expenses are excluded?
 - BSc and MSc programmes are excluded
@@ -45,7 +48,6 @@ Starting January 1, English lessons will be paid from employees education budget
 - meals. You can however book a room with breakfast included and then effectively the breakfast meal will be paid from your education budget.
 
 ### Hotel, tickets, meals... it’s all too complicated. Please give me a real world example.
-
 Imagine you buy a ticket to Meet.js conference in Poznań, go there with your own car and book a hotel room with breakfast included. While staying there you also buy a lunch at the conference venue and a dinner at the hotel.
 
 Out of all the aforementioned expenses, the following ones can be paid out of your education budget:
@@ -58,7 +60,6 @@ Yes. HTD will continue paying for online courses that we consider basic and as s
 If you think that a given online course would benefit a larger group of people please do reach out to [Maciek Z](https://github.com/maciej-zywno) and we will consider funding it from the company-wide budget.
 
 ### Will HTD still be buying physical books from the company budget?
-
 Yes. If you think that a given book will benefit a larger group of people please add a comment to [HTD Bookshelf | Requests tab](https://docs.google.com/spreadsheets/d/160JGrusqDqLwSK20DL9AuPQ12yMkVujK_qfkER8Ay2k/edit#gid=1603685952), mention Maciek Z in your comment and we will consider funding it from the company-wide budget.
 
 
