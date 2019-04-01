@@ -9,7 +9,6 @@
   ](https://www.youtube.com/watch?v=77lMCiiMilo)
 - [[Article] HTTP Requests - Understanding the basics](https://www.codecademy.com/articles/http-requests)
 - [[Article] HTTP Requests](https://www.tutorialspoint.com/http/http_requests.htm)
-- [~~[Article] TCP/IP basics~~ **broken link**](https://medium.com/@nagammai/tcp-ip-basics-fb5d9a8a72b4)
 - [[Article] What is a RESTful API?](https://medium.com/@lazlojuly/what-is-a-restful-api-fabb8dc2afeb)
 - [[Article] How the Web Works Part I: A Primer for Newcomers to Web Development](https://medium.freecodecamp.org/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c)
 - [[Article] How the Web Works Part II: Client-Server Model & the Structure of a Web Application](https://medium.freecodecamp.org/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3)
