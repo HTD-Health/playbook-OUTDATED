@@ -12,7 +12,7 @@
 [Kent C Dodds blog](https://kentcdodds.com/blog/)
 [Wes Bos yt channel](https://www.youtube.com/user/wesbos)
 
-### People to follow in all forms: (articles, conferences, blogs, books)
+### People to follow in all forms (articles, conferences, blogs, books)
 - Martin Fowler
 - Robert C Martin (Uncle Bob)
 - Kent Beck
