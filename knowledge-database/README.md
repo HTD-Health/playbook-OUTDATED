@@ -9,6 +9,7 @@ This folder serves as a collaborative and curated list of learning materials tha
 - [Ruby & RoR](./ruby-and-ror.md)
 - [Node.js](./nodejs.md)
 - [Soft skills and project management](./soft-skills-and-project-management.md)
+- [People to follow](./people_to_follow.md)
 
 ---
 
