@@ -49,7 +49,6 @@ Each day different team member moderates the meeting. Sample steps to use:
 - Opening
   - how many days are left till the end of the Sprint?
   - what is the goal of this Sprint?
-- Sum up the 
 - Go through the board
   - go from top right to bottom left column
   - mind the days in column
