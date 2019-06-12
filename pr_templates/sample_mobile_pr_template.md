@@ -10,22 +10,19 @@ Changes:
 * Two
 * Three
 
-#### Tests:
+#### Dev checklist
+* [ ] Jest tests updated
+* [ ] E2E tests updated
 
-* [ ] Tests updated
-* [ ] Tests went green
+#### QA checklist:
+* [ ] **Tested on Android**
+* [ ] **Tested on Old iPhones**
+* [ ] **Tested on iPhones X**
 
-#### API Checklist:
-
-* [ ] Postman updated
-
-#### REACT NATIVE Checklist:
-
-* [ ] Tested on Android
-* [ ] Tested on iOS
+#### Test Cases
+- OPTIONAL INFORMATION THAT CAN BE HELPFUL FOR QA
 
 #### Design
-
 [See design](figma/invision link here)
 
 Screenshots/Gifs:
