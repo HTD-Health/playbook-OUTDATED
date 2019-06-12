@@ -6,7 +6,7 @@ Remember to include the general change log in the Pull Request description. It w
 
 ### Things considered a good practice when working with Pull Requests:
 - Stick to the naming convention that the team agreed on e.g. `feature/nut-123-style-appointment-screen/`
-- Respect the template for opening new Pull Requests if one is provided. Otherwise it is the best time to create one, you can find sample [here](https://github.com/HealthTechDevelopers/playbook/blob/master/sources/sample_pr_template.md) and adjust it to your needs.
+- Respect the template for opening new Pull Requests if one is provided. Otherwise it is the best time to [create one](https://help.github.com/en/articles/creating-a-pull-request-template-for-your-repository), you can find samples [here](https://github.com/HealthTechDevelopers/playbook/blob/master/pr_templates/) and adjust it to your needs.
 - Make sure that your Pull Request is in fact ready and could be merged to master branch as is. Don’t force others to waste their time on finding typos or silly mistakes
 - It is acceptable to use ‚work in progress’ Pull Requests to satisfy different needs during development process. In that case attach the `WIP` signature to the title or use GitHub's **Draft Pull Request** feature and do not ask for review until the Pull Request is good to go
 - Feel free to friendly remind your teammates of a pending Code Review
