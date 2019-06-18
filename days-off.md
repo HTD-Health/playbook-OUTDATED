@@ -52,6 +52,12 @@ Here are helpful phrases when communicating absence with client:
 Always send a formal email to a client even though the client might have acknowledged on a call that is all fine. The formal email should be sent only after the client acknowledged the news told them on a call or sent over via Slack.
 Create a calendar event right after you send the formal email and invite the client to the event.
 
+### Who should communicate days off to a client
+It depends on internal regulations in a team. 
+Sometimes it will be your leader sometimes it will be you.
+
+This point should be included in the Team Contract.
+
 ### Always use common sense
 
 Whatever the rules are please always use common sense and be conscious. These are the questions that might help.
