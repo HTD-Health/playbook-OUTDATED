@@ -6,7 +6,7 @@ Delivering software solutions requires teamwork. To deliver solutions on time we
 
 When we sign a contract with a client we commit to delivering software on time. Our clients’ success depends on a timely delivery of solutions we work on. Unscheduled absence often puts projects at risk. Unscheduled absence, even if it does not put a project at risk, makes us look unprofessional and not organized well internally. This affects our reputation which is all we have and what we have worked hard to build. HTD is not office, desks or macbooks. It is our reputation.
 
-### How to request days off internally
+### How to request days off internally?
 When requesting days off use Calamari.
 
 ### Who will be responsible for my request?
