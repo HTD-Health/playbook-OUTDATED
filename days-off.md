@@ -10,7 +10,7 @@ When we sign a contract with a client we commit to delivering software on time. 
 When requesting days off use Calamari.
 
 ### Who will be responsible for my request?
-Your request will land in your team lead's inbox then.
+Your request will land in your team lead's inbox. 
 
 ### What about my team?
 You are almost always part of some team, and that team is not complete without you.
