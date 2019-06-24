@@ -9,7 +9,7 @@ Here is guideline how we use and communicate over Slack:
 - Project team members are responsible for project channel they belong to. They should watch and ensure our communication standards are preserved on those channels. They should also monitor list of people who have access to project channel and act if someone should be removed.
 - Async communication is async - Keep in mind that even though Slack messages are instant, not everyone will read your message immediately. Give others enough time to react and process what you've sent and don't bother them with unnecessary mentions in your message.
 
-  - Slack notifications are interruptive and we should manage them wisely
+- Slack notifications are interruptive and we should manage them wisely
   - You can mute or leave channels you don't have to actively listen to.
   - Try not to overuse @channel and @here mentions. Before using them try to evaluate if really every channel member should get your message and if it's required to read it asap.
   - We treat private messages as a top priority, they should be used for more important matters and we should respond to them with higher priority.
