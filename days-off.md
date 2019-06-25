@@ -14,13 +14,18 @@ Your request will land in your team lead's inbox.
 
 ### What about my team?
 You are almost always part of some team, and that team is not complete without you.
-Team success and happiness depend on information flow. 
+Team success depend on information flow.
 Do not let the team find out about your absence on day zero.
 
 ### When should I inform my team?
+- With planned absence, you should request days off at least 1 sprint earlier. If you plan to take more than 5 days off, you should request it at least 2 sprints earlier.
+- Inform team on Slack and at the closest sprint planning prior to your absence when your request was accepted. That way team will be able to plan the sprint more accurately.
 - Inform team on the closest standup and the slack after request will be accepted
 - Inform team on the slack one week before your absence 
 - Inform team on the slack one day before your absence
+
+### What about conferences trip?
+- Conferences are treated just like days off and time spent on them should be declared in the same way (whether for the team or client)
 
 ### When to request days off
 
@@ -40,7 +45,7 @@ There might be times where we need more strict rules than the ones above. In suc
 
 ### Emergency
 
-In case of an emergency call your team leader (the phone number should be available in the user profile on the slack ) or Wojtek Z (+48 600 420 660) or Maciek Z (+48 600 421 660).
+In case of an emergency call your team leader (the phone number should be available in their profile on the slack ) or Wojtek Z (+48 600 420 660) or Maciek Z (+48 600 421 660).
 
 ### How to communicate days off to a client
 
