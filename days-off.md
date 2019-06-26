@@ -18,11 +18,9 @@ Team success depend on information flow.
 Do not let the team find out about your absence on day zero.
 
 ### When should I inform my team?
-- With planned absence, you should request days off at least 1 sprint earlier. If you plan to take more than 5 days off, you should request it at least 2 sprints earlier.
-- Inform team on Slack and at the closest sprint planning prior to your absence when your request was accepted. That way team will be able to plan the sprint more accurately.
-- Inform team on the closest standup and the slack after request will be accepted
-- Inform team on the slack one week before your absence 
-- Inform team on the slack one day before your absence
+- Inform team on the closest standup and on the slack after your request will be accepted
+- Inform team on the slack/standup one week before your absence 
+- Inform team on the slack/standup one day before your absence
 
 ### What about conferences trip?
 - Conferences are treated just like days off and time spent on them should be declared in the same way (whether for the team or client)
