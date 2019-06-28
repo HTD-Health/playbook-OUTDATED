@@ -6,9 +6,24 @@ Delivering software solutions requires teamwork. To deliver solutions on time we
 
 When we sign a contract with a client we commit to delivering software on time. Our clients’ success depends on a timely delivery of solutions we work on. Unscheduled absence often puts projects at risk. Unscheduled absence, even if it does not put a project at risk, makes us look unprofessional and not organized well internally. This affects our reputation which is all we have and what we have worked hard to build. HTD is not office, desks or macbooks. It is our reputation.
 
-### How to request days off internally
+### How to request days off internally?
+When requesting days off use Calamari.
 
-When requesting days off use Calamari. Your request will land in your team lead's inbox then.
+### Who will be responsible for my request?
+Your request will land in your team lead's inbox. 
+
+### What about my team?
+You are almost always part of some team, and that team is not complete without you.
+Team success depend on information flow.
+Do not let the team find out about your absence on day zero.
+
+### When should I inform my team?
+- Inform team on the closest standup and on the slack after your request will be accepted
+- Inform team on the slack/standup one week before your absence 
+- Inform team on the slack/standup one day before your absence
+
+### What about conferences trip?
+- Conferences are treated just like days off and time spent on them should be declared in the same way (whether for the team or client)
 
 ### When to request days off
 
@@ -28,7 +43,7 @@ There might be times where we need more strict rules than the ones above. In suc
 
 ### Emergency
 
-In case of an emergency call your team leader or Wojtek Z (+48 600 420 660) or Maciek Z (+48 600 421 660).
+In case of an emergency call your team leader (the phone number should be available in their profile on the slack ) or Wojtek Z (+48 600 420 660) or Maciek Z (+48 600 421 660).
 
 ### How to communicate days off to a client
 
@@ -39,6 +54,12 @@ Here are helpful phrases when communicating absence with client:
 
 Always send a formal email to a client even though the client might have acknowledged on a call that is all fine. The formal email should be sent only after the client acknowledged the news told them on a call or sent over via Slack.
 Create a calendar event right after you send the formal email and invite the client to the event.
+
+### Who should communicate days off to a client
+It depends on internal regulations in a team. 
+Sometimes it will be your leader sometimes it will be you.
+
+This point should be included in the Team Contract.
 
 ### Always use common sense
 
