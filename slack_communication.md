@@ -14,4 +14,4 @@ Here are some rules we would like to follow when communicating over Slack:
   - We treat private messages as a top priority, they should be used for more important matters and we should respond to them with higher priority.
 
 - Instead of sending multiple messages in a row try to think a bit more about what exactly you want to communicate and if it can be contained it in a single message. Don't flood your coworkers with notifications.
-- We all have are beliefs and opinions, we don't want them to bring bad atmosphere to our company. Please avoid discussing political/religious matters in public channels.
+- We all have our beliefs and opinions, we don't want them to bring bad atmosphere to our company. Please avoid discussing political/religious matters in public channels.
