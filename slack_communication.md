@@ -15,3 +15,12 @@ Here are some rules we would like to follow when communicating over Slack:
 
 - Instead of sending multiple messages in a row try to think a bit more about what exactly you want to communicate and if it can be contained it in a single message. Don't flood your coworkers with notifications.
 - We all have our beliefs and opinions, we don't want them to bring bad atmosphere to our company. Please avoid discussing political/religious matters in public channels.
+
+
+### Channel naming convention
+- *htd-...* (example: `htd-general`) --> Channels for discussions that every employee could be interested in. We should follow all channels from this group and every new employee should be invited to those channels by onboarding team.
+- *[projekt]-...* (example: `nutrimedy-general`) --> Channels for specific client project. All employees that have active participation in given project should follow its dedicated channel. 
+- *event-...* (example: `event-reason-workshops-2019`) --> Channels to discuss events related stuff. Preparation and organization for workshops/conferences/company trips.
+- *learn-...* (example: `learn-javascript`) --> Channels dedicated to share knowledge and help learning specific technologies/languagues.
+- *task-...* (example: `task-code-review-guidelines`) --> Channels dedicated to managing process and discussions around specific task. Those channels should be archived after task group has completed its work.
+- *ext-...* (example: `ext-projekt-inno`) --> Channels where we invite guests with access to only one channel.
