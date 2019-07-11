@@ -1,29 +1,19 @@
-### Slack communication
+# Online communication guideline
 
-Slack is our primary communication tool for client projects and company related stuff. We should aim to use it efficiently and for communication that's happening there to be clean.
-Here are some rules we would like to follow when communicating over Slack:
+By nature our work requires a lot of communication. Project specific information as well as more general talk is often taking place online using specific tools such as Slack app.
 
-- (Notification channel will be created soon) All important and company-wide information are posted on #notifications. Respond only in threads on this channel. - _Mateusz C please update with correct channel name _
-- Private announcements/questions/jokes should be posted on #random, please keep them out of work related channels.
-- When discussing project related matters, try to keep discussion open for all members - try to always use project channel and avoid chatting in private messages.
-- Project team members are responsible for project channel they belong to. They should watch and ensure our communication standards are preserved on those channels. They should also monitor list of people who have access to project channel and act if someone should be removed.
-- Async communication is async - Keep in mind that even though Slack messages are instant, not everyone will read your message immediately. Give others enough time to react and process what you've sent and don't bother them with unnecessary mentions in your message.
-- Slack notifications are interruptive and we should manage them wisely
+Some common rules should be incorporated by people for this communication to stay clean and effective.
 
-  - Make use of "Do not disturb mode" when you're focusing. If something is urgent you will get notified anyway :) Tip: you can easily turn on Slack's DnD by typing e.g. `/dnd 14 minutes` in any chat.
-  - You can mute or leave channels you don't have to actively listen to.
-  - Try not to overuse @channel and @here mentions. Before using them try to evaluate if really every channel member should get your message and if it's required to read it asap.
-  - We treat private messages as a top priority, they should be used for more important matters and we should respond to them with higher priority.
+- Typically there are some channels designed for general, company-wide announcements. Keep in mind these are mainly read-only threads and try to keep them that way
+- In the same fashion there are channels for some loose, after hours discussion provided
+- Project related issues are visible the most when posted on project channels. This way all of the team members have equal access to the information, using private messages can often lead to information misalignment inside the team
+- As a part of a team you are all responsible for keeping high standard of the conversation. You also need to manage people that belong to project channel.
+- It might be the case sometimes that you will not get an immediate response to your message. People have different responsibilities during the day, but eventually you will get the answer. This is more obvious when people are in different timezones.
+- Generally it is better to think twice before posting. Thinking about one consistent message a little longer may prevent notifying other people multiple times for the same reason.
 
-* Instead of sending multiple messages in a row try to think a bit more about what exactly you want to communicate and if it can be contained it in a single message. Don't flood your coworkers with notifications.
-* We all have our beliefs and opinions, we don't want them to bring bad atmosphere to our company. Never bring up any political or religious topics on Slack, neither in public channels nor in private ones.
+### Some useful tips when using online communicators:
 
-### Channel naming convention
-
-- _htd-..._ (example: `htd-general`) --> Channels for discussions that every employee could be interested in. We should follow all channels from this group and every new employee should be invited to those channels by onboarding team.
-- _[projekt]-..._ (example: `nutrimedy-general`) --> Channels for specific client project. All employees that have active participation in given project should follow its dedicated channel.
-- _ev-..._ (example: `event-reason-workshops-2019`) --> Channels to discuss events related stuff. Preparation and organization for workshops/conferences/company trips.
-- _learn-..._ (example: `learn-javascript`) --> Channels dedicated to share knowledge and help learning specific technologies/languagues.
-- _task-..._ (example: `task-code-review-guidelines`) --> Channels dedicated to managing process and discussions around specific task. Those channels should be archived after task group has completed its work.
-- _ext-..._ (example: `ext-projekt-inno`) --> Channels where we invite guests with access to only one channel.
-- _ama-..._ (example: `ama-toggl`) --> Questions & answers about specific company area (administration, education budget etc.)
+- There is a Do not disturb mode available in slack. Don’t worry, you will not miss out on anything. You can easily turn it on by typing e.g. /dnd 14 minutes in any chat
+- Limiting active channels will help you focus. Less important ones can be muted as well
+- Commands like @here or @channel are very useful. Be sure to check it out in the docs. However use them wisely. Think about the importance of your message and the other team members. Maybe this is not what you have to use this time.
+- If someone decides to write a private message it is probably something important and they would love to know that you have got it. If possible try to always get back to people as soon as possible, even to confirm and schedule a wider discussion later on.
