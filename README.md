@@ -6,6 +6,7 @@
 - [How to organize and lead demo meetings](/demo-meetings.md)
 - [Referring a candidate/CV/resume for a job at HTD](/referrals.md)
 - [Education budget](/education-budget.md)
+- [Online communication](/slack_communication.md)
 - [Requesting days off](/days-off.md)
 - [Mobile apps beta release](/mobile-app-beta-release.md)
 - [Development workflow](/workflow-guideline.md)
