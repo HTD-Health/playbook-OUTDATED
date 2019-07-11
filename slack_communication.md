@@ -15,7 +15,7 @@ Some common rules should be incorporated by people for this communication to sta
 
 - There is a Do not disturb mode available in slack. Don’t worry, you will not miss out on anything. You can easily turn it on by typing e.g. /dnd 14 minutes in any chat
 - Limiting active channels will help you focus. Less important ones can be muted as well
-- Commands like @here or @channel are very useful. Be sure to check it out in the docs. However use them wisely. Think about the importance of your message and the other team members. Maybe this is not what you have to use this time.
+- Commands like `@here` or `@channel` are very useful. Be sure to check it out in the docs. However use them wisely. Think about the importance of your message and the other team members. Maybe this is not what you have to use this time.
 - If someone decides to write a private message it is probably something important and they would love to know that you have got it. If possible try to always get back to people as soon as possible, even to confirm and schedule a wider discussion later on.
 
 ### Channel naming convention
