@@ -22,7 +22,8 @@ Some common rules should be incorporated by people for this communication to sta
 
 - `htd-...` (example: htd-general) --> Channels for discussion that every employee could be interested in. You should follow all channels from this group and every new employee should be invited to those channels by onboarding team
 - `[project]-...` (example: nutrimedy-general) --> Channels for specific client project. All employees that have active participation in a given project should follow its dedicated channel
-- `event-...` (example: event-reason-workshops-2019) --> Channels to discuss events related stuff. Preparation and organization for workshops/conferences/company trips
+- `ev-...` (example: event-reason-workshops-2019) --> Channels to discuss events related stuff. Preparation and organization for workshops/conferences/company trips
 - `learn-...` (example: learn-javascript) --> Channels dedicated to share knowledge and help in learning specific technologies/languagues
 - `task-...` (example: task-code-review-guidelines) --> Channels dedicated to manage process and discussion around specific task. Those channels should be archived after task group has completed its work
 - `ext-...` (example: ext-projekt-inno) --> Channels where we invite guests with access to only one channel
+- `_ama-...` (example: `ama-toggl`) --> Questions & answers about specific company area (administration, education budget etc.)
