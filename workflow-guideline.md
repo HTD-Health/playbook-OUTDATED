@@ -4,7 +4,7 @@ By definition commits should address small, meaningful and complete pieces of th
 
 Remember to include the general change log in the Pull Request description. It will serve as an explanation to the reviewers why those changes were needed.
 
-As for the branching conventions - in most cases, the [git flow](https://nvie.com/posts/a-successful-git-branching-model/) approach works best. It's better to stick to it unless you have a good reason not to / not to do so.
+As for the branching conventions - in most cases, the [git flow](https://nvie.com/posts/a-successful-git-branching-model/) approach works best. It's better to stick to it unless you have a good reason not to do so (you may consider using [this flow](https://guides.github.com/introduction/flow/) then)
 
 ### Things considered a good practice when working with Pull Requests:
 - Stick to the naming convention that the team agreed on e.g. `feature/nut-123-style-appointment-screen/`. 
