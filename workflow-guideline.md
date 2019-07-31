@@ -4,8 +4,10 @@ By definition commits should address small, meaningful and complete pieces of th
 
 Remember to include the general change log in the Pull Request description. It will serve as an explanation to the reviewers why those changes were needed.
 
+As for the branching conventions - in most cases, the [git flow](https://nvie.com/posts/a-successful-git-branching-model/) approach works best. It's better to stick to it unless you have a good reason not to do so (you may consider using [this flow](https://guides.github.com/introduction/flow/) then)
+
 ### Things considered a good practice when working with Pull Requests:
-- Stick to the naming convention that the team agreed on e.g. `feature/nut-123-style-appointment-screen/`
+- Stick to the naming convention that the team agreed on e.g. `feature/nut-123-style-appointment-screen/`. 
 - Respect the template for opening new Pull Requests if one is provided. Otherwise it is the best time to [create one](https://help.github.com/en/articles/creating-a-pull-request-template-for-your-repository), you can find samples [here](https://github.com/HealthTechDevelopers/playbook/blob/master/pr_templates/) and adjust it to your needs.
 - Make sure that your Pull Request is in fact ready and could be merged to master branch as is. Don’t force others to waste their time on finding typos or silly mistakes
 - It is acceptable to use ‚work in progress’ Pull Requests to satisfy different needs during development process. In that case attach the `WIP` signature to the title or use GitHub's **Draft Pull Request** feature and do not ask for review until the Pull Request is good to go
