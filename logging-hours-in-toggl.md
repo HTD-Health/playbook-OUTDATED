@@ -2,11 +2,10 @@ Always log hours under appropriate projects.
 
 | time spent on | Toggl Client | Toggl Project |
 |--|--|--|
-| lightning talks | HTD-EmployeeGrowth | Lightning Talks |
-| brown bag talks | HTD-EmployeeGrowth | Brown Bag Talks |
-| targi pracy ATP 2019 | HTD-TalentAcquisition | ATP 2019 |
-| Moses school - English lessons | HTD-EmployeeGrowth | MLC-English |
-| Batony UX/UI meetup | HTD-TalentAcquisition | Batony |
+| lightning talks | HTD | Lightning Talks |
+| targi pracy ATP 2019 | HTD | ATP 2019 |
+| Moses school - English lessons | HTD | MLC-English |
+| Batony UX/UI meetup | HTD | Batony |
 | agile coaching | client (not HTD) | client project |
 | one-on-one's | client (not HTD) | client project |
 
