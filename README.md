@@ -11,7 +11,7 @@
 - [Mobile apps beta release](/mobile-app-beta-release.md)
 - [Development workflow](/workflow-guideline.md)
 - [Helpful English phrases](/helpful-english-phrases.md)
-
+- [Feedback Culture](https://www.notion.so/Feedback-Culture-787a73423b7249988f6fb15d18f2c3dd)
 ### HTD
 
 - [HTD Brand Guide](./sources/htd_brandguide.pdf)
