@@ -115,11 +115,12 @@ Aplikacje muszą być zbudowane przez jakiegoś providera (np Bitrise, AppCenter
 
 #### 4. Wysłałem komuś build aplikacji do przetestowania ale osoba ta nie może go zainstalować na swoim urządzeniu, co powinienem zrobić?
 
-  1. Sprawdź, czy UDID urządzenia, na którym ta osoba próbuje zainstalować aplikację, jest zarejestrowany w zakładce *Devices* na [developer.apple.com](https://developer.apple.com/account/resources/certificates/list)
-  2. Jeśli nie, zarejestruj to urządzenie.
-  3. Jeśli urządzenie jest zarejestrowane, upewnij się, że jest dodane do odpowiedniego *Provisioning Profile* w zakładce *Profiles* na [developer.apple.com](https://developer.apple.com/account/resources/certificates/list) - profil *Development* oraz *Ad Hoc*
-  4. Jeśli jest, sprawdź czy CI/CD użyte do wygenerowania buildu aplikacji używało odpowiedniego profilu (najpewniej powinien być to *Ad Hoc*), oraz czy ten profil miał w sobie już zarejestrowane dane urządzenie - możesz pobrać Profil i otworzyć go np. w edytorze tekstu, a następnie wyszukać po tekście UDIDu urządzenia - jeśli go nie ma, należy podmienić ten profil na ten z zaaktualizowaną listą urzadzeń z podpunktu 3.
-  5. Jeśli mimo wszystko ten ktoś nadal nie może zainstalować aplikacji, sprawdź czy odpowiednie certyfikaty (*.p12*) zostały użyte do stworzenia buildu. 
+   1. Upewnij się, że ta osoba próbuje uruchomić aplikację (zainstalować build) poprzez przeglądarkę Safari (tylko przez Safari można zainstalować build *Ad Hoc*) 
+   2. Sprawdź, czy UDID urządzenia, na którym ta osoba próbuje zainstalować aplikację, jest zarejestrowany w zakładce *Devices* na [developer.apple.com](https://developer.apple.com/account/resources/certificates/list)
+   3. Jeśli nie, zarejestruj to urządzenie.
+   4. Jeśli urządzenie jest zarejestrowane, upewnij się, że jest dodane do odpowiedniego *Provisioning Profile* w zakładce *Profiles* na [developer.apple.com](https://developer.apple.com/account/resources/certificates/list) - profil *Development* oraz *Ad Hoc*
+   5. Jeśli jest, sprawdź czy CI/CD użyte do wygenerowania buildu aplikacji używało odpowiedniego profilu (najpewniej powinien być to *Ad Hoc*), oraz czy ten profil miał w sobie już zarejestrowane dane urządzenie - możesz pobrać Profil i otworzyć go np. w edytorze tekstu, a następnie wyszukać po tekście UDIDu urządzenia - jeśli go nie ma, należy podmienić ten profil na ten z zaaktualizowaną listą urzadzeń z podpunktu 3.
+   6. Jeśli mimo wszystko ten ktoś nadal nie może zainstalować aplikacji, sprawdź czy odpowiednie certyfikaty (*.p12*) zostały użyte do stworzenia buildu. 
 
 ----
 
