@@ -21,7 +21,7 @@ Dodawanie nowych urządzeń itp [tutaj](https://support.smartbear.com/testcomple
 **Profile** Plik łączący dany certyfikat  (certificate) z daną aplikacją (identifier) oraz urządzeniem (device). Określa urządzenia, dla których aplikacja jest poprawnie podpisana i na których może zostać uruchomiona. Bez zainstalowanego profilu nie da się uruchomić aplikacji na urządzeniu. 
 Rodzaje:
 
-  * Development - łączy Apple Development certificate z urządzeniami, umożliwia development aplikacji przez Xcode - osoby których certyfikat nie jest dodany do tego profilu nie uruchomią aplikacji na swoich komputerach po sklonowaniu repo itp (to prawda?). Limit max 100 urządzeń. Zazwyczaj urządzenie jest podpięte do komputera, umożliwia debugowanie przez xcode itp.
+  * Development - łączy Apple Development certificate z urządzeniami, umożliwia development aplikacji przez Xcode - osoby których certyfikat nie jest dodany do tego profilu nie uruchomią aplikacji na swoich telefonach (podłączonych do komputera) po sklonowaniu repo itp (na symulatorach będa mogły uruchomić aplikację). Limit max 100 urządzeń. Zazwyczaj urządzenie jest podpięte do komputera, umożliwia debugowanie przez xcode itp.
 
 
   * Ad hoc - łączy Apple Distribution z urządzeniami, umożliwia instalowanie aplikacji na urządzeniach testowych np. poprzez buildy z Bitrise (bardziej jak release mode, build jest zbliżony do tego, który byłby budowany z App Store), wymaga zarejestrowania UDID urządzenia na którym chcemy testować.
