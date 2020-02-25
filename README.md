@@ -11,6 +11,7 @@
 - [Mobile apps beta release](/mobile-app-beta-release.md)
 - [Development workflow](/workflow-guideline.md)
 - [Helpful English phrases](/helpful-english-phrases.md)
+- [iOS Code signing guide](ios-code-signing.md)
 
 ### HTD
 
