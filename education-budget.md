@@ -88,7 +88,7 @@ ul. Brukowa 12/18
 You should also be able to request an invoice by emailing a seller.  
 
 ### Who do I provide an invoice to?
-Please upload an invoice to HTD Google Drive to an appropriate folder [in this folder](https://drive.google.com/drive/u/1/folders/1R0ca_xUY-06EVTwHXCrkO2nwquzQhVzN). If you have a paper invoice then please scan it to pdf and then upload it. One of the apps you can use to scan documents into pdf format is Dropbox.
+Please upload an invoice to HTD Google Drive to an appropriate folder [in this folder](https://drive.google.com/drive/u/0/folders/16DkUDYhmmbshk0LZVc2h7apVt6FlgBRz). If you have a paper invoice then please scan it to pdf and then upload it. One of the apps you can use to scan documents into pdf format is Dropbox.
 
 ### What if I need to make a transfer?
 If you need to make a transfer please contact with [Magda Z] on Slack.
