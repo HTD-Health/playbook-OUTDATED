@@ -42,7 +42,7 @@ English lessons held in the office does not affect your education budget.
 ### Can I take some different English course of my choice?
 You are welcome to attend different english course of your choice or take private conversations outside of the office and pay for it fully or partially out of your education budget. Please note that you will still need to provide an invoice.
 
-### What kind of expenses are excluded?
+### What kind of expenses are excluded from the education budget?
 - BSc and MSc programmes are excluded
 - hardware related to daily work (mouse, trackpad etc.) - Such things are bought by the company and delivered to you. You are welcome to buy hardware related to your education & growth e.g. Arduino, Raspberry Pi. If you have an idea for another hardware and are not sure whether it is supported by the education budget then please ask you leader. 
 - meals. You can however book a room with breakfast included and then effectively the breakfast meal will be paid from your education budget.
