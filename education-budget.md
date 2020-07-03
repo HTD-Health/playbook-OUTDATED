@@ -44,7 +44,7 @@ You are welcome to attend different english course of your choice or take privat
 
 ### What kind of expenses are excluded?
 - BSc and MSc programmes are excluded
-- hardware. However, if you have an idea for a hardware, please reach out to [Maciek Z](https://github.com/maciej-zywno) and we will consider buying it from the company-wide budget.
+- hardware related to daily work (mouse, trackpad etc.) - Such things are bought by the company and delivered to you. You are welcome to buy hardware related to your education & growth e.g. Arduino, Raspberry Pi. If you have an idea for another hardware and are not sure whether it is supported by the education budget then please ask you leader. 
 - meals. You can however book a room with breakfast included and then effectively the breakfast meal will be paid from your education budget.
 
 ### Hotel, tickets, meals... it’s all too complicated. Please give me a real world example.
