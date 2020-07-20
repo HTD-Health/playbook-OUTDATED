@@ -7,10 +7,10 @@ We want to be more transparent and we believe that having the coherent rules reg
 The amount depends on the number of hours a person works per week. A full-time employee (40 hours per week on average) gets 5 000 PLN education budget in 2020. In 2019 education budget was 4 000 PLN.
 
 ### What if I don't work full-time?
-We've made some updates to our EB policy in June 2020. If you work fewer hours than full time, your budget is still 5 000 PLN in 2020.
+We've made some updates to the policy in June 2020. If you work fewer hours than full time, your budget is still 5 000 PLN in 2020.
 
 ### What if I've started my work at HTD in 2020? Do I still can use 5 000 PLN from EB?
-Depending on when you started working, you have a proportional amount to use. For example, starting in June 2020, you have PLN 2,500 to use.
+Depending on when you started working, you have a proportional amount to use. For example, starting in July 2020, you have PLN 2,500 to use.
 
 ### What happens if I don't use everything in 2020?
 The unused amount from the education budget is carried over to the next year. There is no limit to your budget accumulating from year to year.
