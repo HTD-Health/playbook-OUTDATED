@@ -132,5 +132,8 @@ Please be reasonable and use the budget as if it was your own money. The educati
 - Accommodation price: 52 EURO per double room (2 ppl) per night
 - Fuel price: N/A
 
+### Can I still use Education Budget during the period of notice 
+Unfortunately, during the period of notice Education Budget is unavailable.
+
 ### Anything else?
 If you have any question feel free to post it on a public #ama-edu-budget channel.
