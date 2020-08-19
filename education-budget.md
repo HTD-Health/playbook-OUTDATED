@@ -1,10 +1,12 @@
 # Education budget
-
 Starting January 1, 2019, we are introducing a yearly education budget for each person. 
 We want to be more transparent and we believe that having the coherent rules regarding extra learning opportunities will help.
 
 ### What is the amount of a yearly education budget?
-The amount depends on the number of hours a person works per week. A full-time employee (40 hours per week on average) gets 5 000 PLN education budget in 2020. In 2019 education budget was 4 000 PLN.
+It is 5 000 PLN education budget in 2020. In 2019 the education budget was 4 000 PLN.
+
+### Is everyone eligible for the education budget?
+The education budget applies to all the employees, regardless of the type of contract. Therefore no matter whether you have a B2B contract, Umowa Zlecenie or Umowa o Pracę you have an education budget.
 
 ### What if I don't work full-time?
 We've made some updates to the policy in June 2020. If you work fewer hours than full time, your budget is still 5 000 PLN in 2020.
@@ -18,9 +20,6 @@ The unused amount from the education budget is carried over to the next year. Th
 ### Will the amount change in the future?
 Our will is to significantly increase the education budget in the future. If the "education budget" initiative proves to be a sound idea then increasing the amount will be a priority as the company grows.
 
-### Is everyone eligible for the education budget?
-The education budget applies to all the employees, regardless of the type of contract. Therefore no matter whether you have a B2B contract, Umowa Zlecenie or Umowa o Pracę you have an education budget.
-
 ### How does the education budget affect my taxes?
 The money you spent from your education budget will be taxed as your revenue so your tax base will be higher. The tax office (Urząd Skarbowy) will treat the amount spent as if you received extra cash revenue.
 
@@ -28,15 +27,24 @@ The money you spent from your education budget will be taxed as your revenue so 
 The budget can be spent both on software design and development related things including, but not limited to:
 - books
 - online courses, including online university courses like Coursera, edX etc.
-- conferences including conference tickets, travel expenses (train and airline tickets, BlaBlaCar etc.), gas if travelling by car, hotel. Food/meals are excluded and should be paid for with you personal money.
+- conferences including conference tickets, travel expenses (train and airline tickets, BlaBlaCar etc.), gas if travelling by car, hotel. **Food/meals are excluded and should be paid for with you personal money.
 - paid Meetups and events
-- post-graduate studies
+- post-graduate studies, if they are related to your fields of expertise at HTD Health
 - onsite and online training, including trainings required to pass certain certification exams
 - certification/exam fees e.g. Product Owner, Scrum Master, AWS and other certifications. AWS exams taken until February 1, 2019 will be paid from the company-wide budget and as such will not decrease your education budget.
 - English lessons (more on this further down)
 
+### How does the education budget affect my extramural studies?
+Yours extramural studies are not affecting your education budget. Moreover, you can use an extra budget (independent of the education budget) for financing your extramural studies. Details:
+ 
+- the extramural studies budget is 5000 PLN for the semester 
+- it can be used in the academic year 2020/2021
+- your studies must be related to your fields of expertise at HTD Health
+ 
+For more detailed information, please contact accounting@htdevelopers.com
+
 ### What if I want to buy something that is not listed above?
-If your expense is not listed above please ask [Maciek Z](https://github.com/maciej-zywno) We want to keep the rules quite relaxed and reasonable e.g. a book on psychology would still fall under the budget if it helps understand digital apps users behavior.
+If your expense is not listed above please write an email to edubudget@htdevelopers.com . We want to keep the rules quite relaxed and reasonable e.g. a book on psychology would still fall under the budget if it helps understand digital apps users behavior.
 
 ### How does the education budget affect our English lessons held in the office?
 English lessons held in the office does not affect your education budget.
@@ -46,8 +54,8 @@ You are welcome to attend different english course of your choice or take privat
 
 ### What kind of expenses are excluded from the education budget?
 - BSc and MSc programmes are excluded
-- hardware related to daily work (mouse, trackpad etc.) - Such things are bought by the company and delivered to you. You are welcome to buy hardware related to your education & growth e.g. Arduino, Raspberry Pi. If you have an idea for another hardware and are not sure whether it is supported by the education budget then please ask you leader. 
-- meals. You can however book a room with breakfast included and then effectively the breakfast meal will be paid from your education budget.
+- hardware related to daily work (mouse, trackpad etc.) - Such things are bought by the company and delivered to you. You are welcome to buy hardware related to your education & growth e.g. Arduino, Raspberry Pi. If you have an idea for another hardware and are not sure whether it is supported by the education budget then please write an email to edubudget@htdevelopers.com  
+- meals. You can however book a room with breakfast included and then effectively the breakfast meal will be paid from your education budget
 
 ### Hotel, tickets, meals... it’s all too complicated. Please give me a real world example.
 Imagine you buy a ticket to Meet.js conference in Poznań, go there with your own car and book a hotel room with breakfast included. While staying there you also buy a lunch at the conference venue and a dinner at the hotel.
@@ -59,7 +67,7 @@ Out of all the aforementioned expenses, the following ones can be paid out of yo
 
 ### Will HTD still pay for shared online courses from the company budget?
 Yes. HTD will continue paying for online courses that we consider basic and as such will be e.g. a part of our onboarding. 
-If you think that a given online course would benefit a larger group of people please do reach out to [Maciek Z](https://github.com/maciej-zywno) and we will consider funding it from the company-wide budget.
+If you think that a given online course would benefit a larger group of people please write an email to edubudget@htdevelopers.com and we will consider funding it from the company-wide budget.
 
 ### Will HTD still be buying physical books from the company budget?
 Yes. If you think that a given book will benefit a larger group of people please add a comment to [HTD Bookshelf | Requests tab](https://docs.google.com/spreadsheets/d/160JGrusqDqLwSK20DL9AuPQ12yMkVujK_qfkER8Ay2k/edit#gid=1603685952), mention Maciek Z in your comment and we will consider funding it from the company-wide budget.
@@ -99,7 +107,7 @@ If you need to make a transfer please contact email edubudget@htdevelopers.com a
 Yes. Add an entry to ["Education budgets - expenses" Google Spreadsheet](https://docs.google.com/spreadsheets/d/1WE352gD6To8EomFf-xK0UvMtNNw8hyXYUIZKOh4RPuM/edit#gid=0) as soon as you buy anything.
 
 ### Will I be paid for going to a conference or attending a training of my choice?
-When you you go to a conference or a training of your choice we ask you to take an unpaid day(s) off i.e. unless instructed otherwise, do not log the time spent on a conference on any client or internal project. Specifically:
+When you go to a conference or a training of your choice we ask you to take an unpaid day(s) off i.e. unless instructed otherwise, do not log the time spent on a conference on any client or internal project. Specifically:
 - do not log hours in Toggl
 - request an unpaid day off in Calamari
 
@@ -110,7 +118,7 @@ You should proceed exactly the same as in case of taking any other paid or unpai
 The day when you pay is taken into account so in the listed case the money will be taken from your 2020 education budget.
 
 ### What happens if I don't spend my whole education budget until December 31?
-No matter how much of your education budget is spent in a previous year, on January 1 you always start with 4 000 PLN.
+No matter how much of your education budget is spent in a previous year, on January 1 you always start with 5 000 PLN.
 
 ### Can I use my education budget to buy an online course for my close friend?
 No. The education budget can be used only for the things that are used personally by you e.g. you attending the conference, you reading the book, you attending the training, you watching the online course etc. 
@@ -133,7 +141,7 @@ Please be reasonable and use the budget as if it was your own money. The educati
 - Fuel price: N/A
 
 ### Can I still use Education Budget during the period of notice 
-Unfortunately, during the period of notice Education Budget is unavailable.
+During the period of notice Education Budget is unavailable.
 
 ### Anything else?
-If you have any question feel free to post it on a public #ama-edu-budget channel.
+If you have any question feel free to write an email to edubudget@htdevelopers.com or post it on a public #ama-edu-budget channel.
