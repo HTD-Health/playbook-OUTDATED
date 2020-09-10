@@ -23,8 +23,10 @@
 ### Demo meeting playbook
 - [ ] Say hello to everyone and explain the agenda.
 - [ ] Mention a product mission and vision. The client needs to know we are aware what the big picture is.
-- [ ] Speak slowly so that the client is able to process information and chime in if willing to do so.
+- [ ] Speak slowly so that the client is able to process information and chime in if willing to do so. Please remember, that It depends on the number of people in the actual meeting. If we would speak slowly in a demo for 30 people questions and interruptions would appear. When time is on our side, take this approach freely. If we are short on time try to talk fast, but focus on being audible and understood. All this is contextual, but if we will answer a few questions, we won’t be able to finish our demo, because the meeting time box was reached and people will start leaving. Other participants will be affected, since they haven’t seen whole project/ all features, because too many questions appeared, yet everything was presented.
 - [ ] Start the demo with the sprint goal and present the accomplishments with [the top down approach](https://medium.com/lessons-from-mckinsey/the-pyramid-principle-f0885dd3c5c7)
+- [ ] In case demo is not related with any sprint: Present main idea behind presented part of the application or whole application. You can make it dependent on actual participants in the meeting.
+- [ ] If we present the whole application and see some new people, it would be a good idea to present the main goal of the application first.
 - [ ] Pay attention to what is displayed on the screen. Do not let a mouse pointer wander randomly. 
 - [ ] Ask for client feedback
 
@@ -42,3 +44,5 @@ User stories should be collapsed when you explain the sprint scope.
 - [ ] Being late. Don't let a client wait for you. Show that you respect their time.
 - [ ] Receiving Slack notifications while sharing your screen. Protip: turn off any notification.
 - [ ] Having too many tabs open and having your bookmarks visible when sharing your screen. Let a client focus on what's important and not wander about what you have in your bookmarks.
+- [ ] Asking for feedback too often for example: after each presented feature. It is a real time waster, and most of the time we are short on time for the demo.
+ 
