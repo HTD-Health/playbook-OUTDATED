@@ -128,6 +128,9 @@ If you do otherwise it will be a reason of terminating your contract immediately
 ### Should I be reasonable when spending money from my education budget?
 Please be reasonable and use the budget as if it was your own money. The education budget is simply a part of revenue that the whole team generates. In other words, the education budgets are our working time. Time is priceless.
 
+### Can I still use Education Budget during the period of notice ?
+During the period of notice Education Budget is unavailable.
+
 ### Examples expenses
 
 #### GrillJS Poznan:
@@ -139,9 +142,6 @@ Please be reasonable and use the budget as if it was your own money. The educati
 - Ticket price: 150PLN
 - Accommodation price: 52 EURO per double room (2 ppl) per night
 - Fuel price: N/A
-
-### Can I still use Education Budget during the period of notice 
-During the period of notice Education Budget is unavailable.
 
 ### Anything else?
 If you have any question feel free to write an email to edubudget@htdevelopers.com or post it on a public #ama-edu-budget channel.
