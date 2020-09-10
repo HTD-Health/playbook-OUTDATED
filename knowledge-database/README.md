@@ -8,6 +8,7 @@ This folder serves as a collaborative and curated list of learning materials tha
 - [React & ecosystem](./react.md)
 - [Ruby & RoR](./ruby-and-ror.md)
 - [Node.js](./nodejs.md)
+- [Python 🐍](./python.md)
 - [Soft skills and project management](./soft-skills-and-project-management.md)
 - [People to follow](./people_to_follow.md)
 

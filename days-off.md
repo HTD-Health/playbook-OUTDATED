@@ -72,3 +72,8 @@ The time factor e.g. Is this the first week of working new client when we are in
 ### What if more than one team member wants to take days off at the same time.
 
 If a project does not allow for a simultaneous absence of more than one team member then we will apply first come first served rule and the request that was reported in Calamari later will be rejected.
+
+### What about Toggl?
+
+Each paid day off should be toggled for the `Paid Days Off` project in Toggl
+
