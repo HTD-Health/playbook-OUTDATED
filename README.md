@@ -13,7 +13,7 @@
 - [Helpful English phrases](/helpful-english-phrases.md)
 - [Feedback Culture](https://www.notion.so/Feedback-Culture-787a73423b7249988f6fb15d18f2c3dd)
 - [iOS Code signing guide](ios-code-signing.md)
-- [While waiting for a project kickoff?](while-waiting-for-project-kickoff.md)
+- [While waiting for a project kickoff](while-waiting-for-project-kickoff.md)
 
 ### HTD
 
