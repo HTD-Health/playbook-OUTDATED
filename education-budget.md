@@ -90,10 +90,8 @@ When you buy online you should fill a "Faktura VAT", "Billing details, "Company 
 
 HTD Polska sp. z o.o.  
 NIP 9471997285  
-ul. Brukowa 12/18  
-91-342 Łódź  
-
-(Yes, put 91-342 as a zipcode) 
+ul. Brukowa 12  
+91-341 Łódź  
 
 You should also be able to request an invoice by emailing a seller.  
 
