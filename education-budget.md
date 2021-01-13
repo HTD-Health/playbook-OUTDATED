@@ -3,18 +3,18 @@ Starting January 1, 2019, we are introducing a yearly education budget for each 
 We want to be more transparent and we believe that having the coherent rules regarding extra learning opportunities will help.
 
 ### What is the amount of a yearly education budget?
-It is 5 000 PLN education budget in 2020. In 2019 the education budget was 4 000 PLN.
+It is 5 000 PLN education budget in 2020 and 2021. In 2019 the education budget was 4 000 PLN.
 
 ### Is everyone eligible for the education budget?
 The education budget applies to all the employees, regardless of the type of contract. Therefore no matter whether you have a B2B contract, Umowa Zlecenie or Umowa o Pracę you have an education budget.
 
 ### What if I don't work full-time?
-We've made some updates to the policy in June 2020. If you work fewer hours than full time, your budget is still 5 000 PLN in 2020.
+We've made some updates to the policy in June 2020. If you work fewer hours than full time, your budget is still 5 000 PLN.
 
-### What if I've started my work at HTD in 2020? Do I still can use 5 000 PLN from EB?
-Depending on when you started working, you have a proportional amount to use. For example, starting in July 2020, you have PLN 2,500 to use.
+### What if I've started my work at HTD in 2021? Do I still can use 5 000 PLN from EB?
+Depending on when you started working, you have a proportional amount to use. For example, starting in July 2021, you have PLN 2,500 to use.
 
-### What happens if I don't use everything in 2020?
+### What happens if I don't use everything in 2021?
 The unused amount from the education budget is carried over to the next year. There is no limit to your budget accumulating from year to year.
 
 ### Will the amount change in the future?
@@ -96,13 +96,13 @@ ul. Brukowa 12
 You should also be able to request an invoice by emailing a seller.  
 
 ### Who do I provide an invoice to?
-Please upload an invoice to HTD Google Drive to an appropriate folder [in this folder](https://drive.google.com/drive/u/0/folders/16DkUDYhmmbshk0LZVc2h7apVt6FlgBRz). If you have a paper invoice then please scan it to pdf and then upload it. One of the apps you can use to scan documents into pdf format is Dropbox.
+Please upload an invoice to Revolut Business app. If you have a paper invoice then please scan it to pdf and then upload it. One of the apps you can use to scan documents into pdf format is Dropbox.
 
 ### What if I need to make a transfer?
 If you need to make a transfer please contact email edubudget@htdevelopers.com and describe your request. 
 
 ### Should I report that I bought anything using my education budget?
-Yes. Add an entry to ["Education budgets - expenses" Google Spreadsheet](https://docs.google.com/spreadsheets/d/1WE352gD6To8EomFf-xK0UvMtNNw8hyXYUIZKOh4RPuM/edit#gid=0) as soon as you buy anything.
+Yes. Add an entry to ["Education Budget and Revolut" Google Spreadsheet](https://docs.google.com/spreadsheets/d/1XlvjsojU_ycK8KjpJ9c1Q5G3EknapTb_s17P8wvjtK4/edit#gid=0) as soon as you buy anything.
 
 ### Will I be paid for going to a conference or attending a training of my choice?
 When you go to a conference or a training of your choice we ask you to take an unpaid day(s) off i.e. unless instructed otherwise, do not log the time spent on a conference on any client or internal project. Specifically:
