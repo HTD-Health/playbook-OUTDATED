@@ -129,6 +129,20 @@ Please be reasonable and use the budget as if it was your own money. The educati
 ### Can I still use Education Budget during the period of notice ?
 During the period of notice Education Budget is unavailable.
 
+### Zakup na fakturę a AppStore
+
+From #ama-edu-budget https://htdhealth.slack.com/archives/CFNLGG1NE/p1611607124014300 
+Próbowałem to zrobić i to nawet z sukcesem, ale droga jest straszna :neutral_face:
+W momencie dokonywania zakupu, konto Apple ID z którego kupujesz aplikację musi mieć podane dane firmy na którą chcesz fakturę w miejscu normalnie przeznaczonym na imię, nazwisko i adres (normalnie podałbyś tam swoje prywatne dane)
+Dodatkowo w ostatniej linii adresu możesz podać NIP firmy w formie: VAT ID: PLxxxxxxxxxx
+Dokonujesz zakupu normalnie
+Czekasz aż dostaniesz potwierdzenie zakupu na maila - taki niby-rachunek, ale bynajmniej nie jest to faktura
+Teraz kontaktujesz się z supportem (jest link w powyższym mailu) i piszesz, że potrzebujesz fakturę VAT za ten zakup. W wiadomości koniecznie trzeba zaznaczyć, że ma być na tej fakturze numer NIP.
+Na tym etapie prawdopodobnie skontaktuje się z Tobą człowiek, żeby potwierdzić czego tak naprawdę potrzebujesz, więc parafrazujesz dla niego to co już było w punkcie 5.
+Dostajesz fakturę i jak masz szczęście, to jest poprawna :tada:
+BTW, ja nie wynalazłem tego sposobu. Support Appla mi powedział, że to jest oficjalna droga.
+Jak nie masz szczęścia, to dostaniesz fakturę na której będzie naliczony VAT, mimo iż odbiorca będzie miał numer NIP z Polski, a wystawca faktury numer NIP z Irlandii.
+
 ### Examples expenses
 
 #### GrillJS Poznan:
