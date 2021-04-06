@@ -92,8 +92,6 @@ When you go to a conference or a training of your choice we ask you to take an u
 You should proceed exactly the same as in case of taking any other paid or unpaid day off.
 ### I buy a conference ticket in December, 2020 and the conference takes place in January, 2021. What education budget year is used then?
 The day when you pay is taken into account so in the listed case the money will be taken from your 2020 education budget.
-### What happens if I don't spend my whole education budget until December 31?
-No matter how much of your education budget is spent in a previous year, on January 1 you always start with 5 000 PLN.
 ### Can I use my education budget to buy an online course for my close friend?
 No. The education budget can be used only for the things that are used personally by you e.g. you attending the conference, you reading the book, you attending the training, you watching the online course etc.
 If you do otherwise it will be a reason of terminating your contract immediately.
