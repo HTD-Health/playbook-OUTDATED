@@ -77,6 +77,8 @@ Important: If you have a **paper invoice** or **paragon** then please scan it to
 HTD Polska sp. z o.o.
 ul. Brukowa 12
 91-341 Łódź
+NIP: 9471997285
+VAT EU: PL9471997285
 ### What if I need to make a transfer?
 If you need to make a transfer please contact email <edubudget@htdevelopers.com> and describe your request.
 ### Should I report that I bought anything using my education budget?
