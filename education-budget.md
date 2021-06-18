@@ -1,4 +1,7 @@
 # Education budget
+please visit current Confluence space for more details:
+https://htdevelopers.atlassian.net/wiki/spaces/PeopleOp/pages/593068157/Education+Budget
+
 Starting January 1, 2019, we are introducing a yearly education budget for each person. We want to be more transparent and we believe that having the coherent rules regarding extra learning opportunities will help.
 ### What is the amount of a yearly education budget?
 It is 5 000 PLN education budget in 2020. In 2019 the education budget was 4 000 PLN.
