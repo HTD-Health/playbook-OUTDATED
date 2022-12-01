@@ -4,11 +4,11 @@ https://htdevelopers.atlassian.net/wiki/spaces/PeopleOp/pages/593068157/Educatio
 
 Starting January 1, 2019, we are introducing a yearly education budget for each person. We want to be more transparent and we believe that having the coherent rules regarding extra learning opportunities will help.
 ### What is the amount of a yearly education budget?
-It is 5 000 PLN education budget in 2020. In 2019 the education budget was 4 000 PLN.
+It is 5 000 PLN education budget.
 ### Is everyone eligible for the education budget?
 The education budget applies to all the employees, regardless of the type of contract. Therefore no matter whether you have a B2B contract, Umowa Zlecenie or Umowa o Pracę you have an education budget.
 ### What if I don't work full-time?
-We've made some updates to the policy in June 2020. If you work fewer hours than full time, your budget is still 5 000 PLN in 2020.
+If you work fewer hours than full time, your budget is proportional to your FTE.
 ### What if I've started my work at HTD in 2020? Do I still can use 5 000 PLN from EB?
 Depending on when you started working, you have a proportional amount to use. For example, starting in July 2020, you have PLN 2,500 to use.
 ### What happens if I don't use everything in 2020?
@@ -36,7 +36,7 @@ Yours extramural studies are not affecting your education budget. Moreover, you 
 For more detailed information, please contact <accounting@htdevelopers.com>
 
 ### What if I want to buy something that is not listed above?
-If your expense is not listed above please write an email to <edubudget@htdevelopers.com>. We want to keep the rules quite relaxed and reasonable e.g. a book on psychology would still fall under the budget if it helps understand digital apps users behavior.
+If your expense is not listed above please contact your Agile Leader. We want to keep the rules quite relaxed and reasonable e.g. a book on psychology would still fall under the budget if it helps understand digital apps users behavior.
 ### How does the education budget affect our English lessons held in the office?
 English lessons held in the office does not affect your education budget.
 ###  Can I take some different English course of my choice?
@@ -56,7 +56,7 @@ Out of all the aforementioned expenses, the following ones can be paid out of yo
 - hotel room with breakfast included
 
 ### Will HTD still pay for shared online courses from the company budget?
-Yes. HTD will continue paying for online courses that we consider basic and as such will be e.g. a part of our onboarding. If you think that a given online course would benefit a larger group of people please write an email to <edubudget@htdevelopers.com> and we will consider funding it from the company-wide budget.
+Yes. HTD will continue paying for online courses that we consider basic and as such will be e.g. a part of our onboarding. If you think that a given online course would benefit a larger group of people please write an email to <invoices@htdevelopers.com> and we will consider funding it from the company-wide budget.
 ### Will HTD still be buying physical books from the company budget?
 Yes. If you think that a given book will benefit a larger group of people please add a comment to [HTD Bookshelf | Requests tab](https://docs.google.com/spreadsheets/d/160JGrusqDqLwSK20DL9AuPQ12yMkVujK_qfkER8Ay2k/edit#gid=1603685952) mention Maciek Ż. and Ania G. in your comment and we will consider funding it from the company-wide budget.
 ### I found a conference/book/whatever that I want to buy from my education budget. How will I pay for it?
@@ -83,10 +83,7 @@ ul. Brukowa 12
 NIP: 9471997285
 VAT EU: PL9471997285
 ### What if I need to make a transfer?
-If you need to make a transfer please contact email <edubudget@htdevelopers.com> and describe your request.
-### Should I report that I bought anything using my education budget?
-Yes. Add an entry to [Education budgets - expenses](https://docs.google.com/spreadsheets/d/1XlvjsojU_ycK8KjpJ9c1Q5G3EknapTb_s17P8wvjtK4/edit#gid=0) as soon as you buy anything.
-The entire process is described in [this document](https://drive.google.com/file/d/1Uz8_eKenQng0WRUwcBuJ6xwvfRTCxcNp/view) 
+If you need to make a transfer please contact email <invoices@htdevelopers.com> and describe your request.
 ### Will I be paid for going to a conference or attending a training of my choice?
 When you go to a conference or a training of your choice we ask you to take an unpaid day(s) off i.e. unless instructed otherwise, do not log the time spent on a conference on any client or internal project. Specifically:
 
@@ -105,7 +102,7 @@ Please be reasonable and use the budget as if it was your own money. The educati
 ### Can I still use Education Budget during the period of notice ?
 During the period of notice Education Budget is unavailable.
 ### Anything else?
-If you have any question feel free to write an email to edubudget@htdevelopers.com or post it on a public #ama-edu-budget channel.
+If you have any question feel free to post it on a public #ama-edu-budget channel.
 
 
 
